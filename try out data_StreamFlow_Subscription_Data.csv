@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Location,Subscription_Start_Date,Subscription_Type,Monthly_Payment,Payment_Method,Monthly_Hours_Watched,Favorite_Genre,Devices_Used,Average_Session_Length,Content_ID,Rating_Given,Churned,Date_of_Churn,Reason_for_Churn
+1,56,Other,Central,2020-06-07,Premium,19.99,Credit Card,31.5131527,Action,PC,1.195762147,1023,5,0,,
+2,69,Other,West,2024-02-21,Standard,14.99,Credit Card,4.982277267,Drama,PC,0.809001685,1076,1,0,,
+3,46,Female,North,2022-10-06,Standard,14.99,PayPal,4.114952522,Sci-Fi,Tablet,1.153569803,1095,2,0,,
+4,32,Female,East,2022-01-04,Standard,14.99,Credit Card,60.24481988,Action,TV,0.60950268,1003,1,0,,
+5,60,Female,North,2020-03-13,Standard,14.99,Credit Card,4.711855182,Sci-Fi,Mobile,0.359971167,1012,4,0,,
+6,25,Other,South,2023-10-26,Basic,9.99,PayPal,6.046943754,Drama,Tablet,2.336846856,1072,5,0,,
+7,38,Female,Central,2021-02-06,Basic,9.99,Direct Debit,69.87674228,Comedy,TV,1.445444965,1056,4,0,,
+8,56,Female,North,2023-05-26,Basic,9.99,Credit Card,26.53852645,Drama,TV,0.446672668,1097,4,0,,
+9,36,Male,East,2021-09-29,Standard,14.99,Credit Card,24.05257636,Drama,PC,0.770117756,1036,2,0,,
+10,40,Female,West,2020-07-22,Basic,9.99,PayPal,38.33644055,Drama,TV,1.792034802,1047,4,0,,
+11,28,Female,West,2019-06-10,Standard,14.99,PayPal,2.461962063,Documentary,Mobile,0.149941439,1070,2,0,,
+12,28,Other,East,2019-12-12,Premium,19.99,Credit Card,24.48053335,Sci-Fi,TV,0.3190539,1000,5,0,,
+13,41,Other,North,2021-04-22,Standard,14.99,Direct Debit,14.01103491,Sci-Fi,Mobile,0.152133387,1059,5,1,53:37.7,Found better service
+14,70,Other,South,2020-10-29,Standard,14.99,Direct Debit,35.33946096,Sci-Fi,Mobile,3.346005365,1011,2,1,53:37.7,Found better service
+15,53,Other,East,2023-10-06,Standard,14.99,Credit Card,14.191293,Documentary,Mobile,2.791956059,1020,1,1,53:37.7,Price increase
+16,57,Other,North,2019-09-22,Premium,19.99,Credit Card,19.36438742,Comedy,Tablet,2.799269353,1010,5,0,,
+17,41,Other,South,2019-07-27,Premium,19.99,Credit Card,12.99187605,Drama,Mobile,2.519854546,1043,1,1,53:37.7,Found better service
+18,20,Female,North,2022-10-12,Premium,19.99,PayPal,13.00784377,Comedy,Mobile,2.213604008,1057,5,0,,
+19,39,Other,North,2022-03-19,Premium,19.99,Credit Card,29.21777022,Documentary,Mobile,1.296316714,1043,5,0,,
+20,70,Other,South,2023-08-19,Basic,9.99,PayPal,19.80770335,Sci-Fi,Mobile,2.055999175,1077,3,0,,
+21,19,Male,North,2022-05-08,Premium,19.99,PayPal,20.06221718,Drama,Tablet,0.078233471,1097,4,0,,
+22,41,Female,East,2023-07-29,Standard,14.99,Credit Card,11.96701479,Action,Tablet,1.94289043,1033,4,0,,
+23,61,Female,West,2019-10-09,Basic,9.99,PayPal,15.14772011,Action,Mobile,3.009054346,1024,1,0,,
+24,47,Female,Central,2020-04-07,Premium,19.99,Direct Debit,27.38620158,Comedy,PC,1.387728317,1003,4,0,,
+25,55,Other,South,2020-07-03,Basic,9.99,Credit Card,34.96720984,Sci-Fi,TV,0.884818414,1063,1,0,,
+26,19,Other,North,2023-05-11,Standard,14.99,Credit Card,23.85152005,Action,PC,0.649872918,1089,5,0,,
+27,38,Other,North,2020-04-25,Basic,9.99,Credit Card,51.55965559,Comedy,Mobile,2.058930339,1015,3,0,,
+28,50,Male,West,2023-02-21,Standard,14.99,Direct Debit,34.33201081,Documentary,PC,2.360520359,1009,3,0,,
+29,29,Other,West,2024-02-04,Standard,14.99,Direct Debit,16.5045087,Comedy,Mobile,4.095383485,1065,5,0,,
+30,39,Male,North,2019-11-05,Standard,14.99,Credit Card,22.25865108,Comedy,Mobile,0.838116401,1034,2,1,53:37.7,Price increase
+31,61,Female,Central,2022-04-15,Standard,14.99,PayPal,52.15729583,Comedy,Mobile,2.937372984,1082,2,0,,
+32,42,Other,North,2021-12-22,Standard,14.99,Credit Card,19.30794124,Drama,TV,1.648133456,1005,4,0,,
+33,66,Male,East,2020-05-20,Premium,19.99,Credit Card,34.83733517,Comedy,Mobile,4.288369608,1018,1,0,,
+34,44,Male,West,2023-12-17,Basic,9.99,Credit Card,23.34706478,Comedy,Mobile,1.500756594,1058,3,0,,
+35,59,Other,Central,2020-09-30,Standard,14.99,Credit Card,16.05640011,Drama,Mobile,1.458086938,1052,4,1,53:37.7,Dissatisfied with content
+36,45,Female,West,2020-05-12,Premium,19.99,Credit Card,5.537169072,Drama,TV,1.724917462,1007,5,0,,
+37,33,Female,Central,2022-04-19,Premium,19.99,Credit Card,11.10243122,Documentary,PC,2.76711905,1077,3,0,,
+38,32,Female,South,2019-08-29,Standard,14.99,Credit Card,68.68029549,Sci-Fi,Mobile,6.68720526,1009,1,1,53:37.7,Found better service
+39,64,Male,Central,2022-07-24,Standard,14.99,Direct Debit,21.44517527,Action,Tablet,0.152819232,1066,1,0,,
+40,68,Male,North,2022-06-06,Premium,19.99,Credit Card,16.62040565,Action,Tablet,0.109830433,1037,2,1,53:37.7,Found better service
+41,61,Male,Central,2021-08-13,Premium,19.99,Credit Card,54.04830978,Comedy,PC,5.546788891,1028,4,0,,
+42,69,Male,East,2024-03-19,Standard,14.99,Credit Card,17.66252512,Documentary,Mobile,1.509515985,1014,5,0,,
+43,20,Female,Central,2020-09-19,Basic,9.99,PayPal,14.93444124,Comedy,TV,1.908520132,1086,3,1,53:37.7,Found better service
+44,54,Other,East,2021-12-08,Basic,9.99,Credit Card,28.48498067,Action,Mobile,1.31719627,1022,1,0,,
+45,68,Male,West,2021-01-09,Basic,9.99,Credit Card,24.94217302,Drama,PC,0.196675914,1081,3,0,,
+46,24,Male,East,2021-03-04,Standard,14.99,Direct Debit,4.292598119,Sci-Fi,Mobile,2.922806467,1045,5,0,,
+47,38,Female,West,2022-10-30,Basic,9.99,Credit Card,12.74699533,Documentary,Mobile,2.75050822,1082,3,0,,
+48,26,Other,North,2023-03-30,Standard,14.99,Credit Card,12.79271379,Drama,Mobile,0.74707063,1027,4,0,,
+49,56,Other,North,2021-11-27,Standard,14.99,Direct Debit,9.503524168,Sci-Fi,Tablet,0.731256223,1025,2,0,,
+50,35,Female,South,2021-12-24,Basic,9.99,Credit Card,14.56692867,Documentary,Mobile,3.638360585,1009,3,1,53:37.7,Dissatisfied with content
+51,21,Female,North,2022-09-13,Premium,19.99,Credit Card,10.65826872,Documentary,PC,0.150217193,1046,2,0,,
+52,42,Other,Central,2023-06-01,Standard,14.99,Credit Card,4.446514953,Action,Mobile,4.259031552,1003,5,0,,
+53,31,Male,South,2019-06-22,Basic,9.99,Credit Card,10.63303606,Drama,PC,0.593208016,1054,2,0,,
+54,67,Other,Central,2022-06-03,Premium,19.99,Credit Card,1.500440512,Documentary,TV,1.797809239,1065,3,0,,
+55,26,Female,South,2023-06-24,Basic,9.99,Credit Card,17.15033821,Documentary,Tablet,5.497562493,1066,3,1,53:37.7,Price increase
+56,43,Male,North,2022-08-28,Standard,14.99,Credit Card,38.43570698,Sci-Fi,PC,2.267168491,1006,1,0,,
+57,70,Male,West,2020-07-20,Standard,14.99,Credit Card,25.84057339,Action,PC,1.070338454,1054,3,0,,
+58,19,Female,West,2023-04-21,Standard,14.99,PayPal,8.938059597,Comedy,Mobile,2.339363115,1079,2,1,53:37.7,Price increase
+59,37,Female,East,2023-09-17,Premium,19.99,Credit Card,1.821947844,Action,TV,0.843126897,1030,1,1,53:37.7,Personal reasons
+60,45,Female,East,2019-06-02,Standard,14.99,Credit Card,4.516678323,Comedy,Mobile,0.649407086,1073,3,0,,
+61,64,Other,West,2020-08-08,Standard,14.99,Direct Debit,15.77072225,Drama,Tablet,11.41755663,1018,3,1,53:37.7,Price increase
+62,24,Other,South,2020-01-16,Basic,9.99,PayPal,4.640080881,Drama,PC,2.778920584,1027,5,0,,
+63,61,Male,Central,2022-02-10,Basic,9.99,Credit Card,15.70407009,Documentary,Mobile,2.069698009,1080,1,1,53:37.7,Personal reasons
+64,25,Female,Central,2022-11-01,Premium,19.99,Direct Debit,5.268871578,Drama,Mobile,0.877908245,1027,5,0,,
+65,64,Male,West,2020-02-05,Standard,14.99,Credit Card,37.79942787,Documentary,Tablet,0.100820693,1018,5,0,,
+66,52,Male,North,2022-01-02,Standard,14.99,Credit Card,10.12576775,Action,TV,0.063098729,1086,5,0,,
+67,31,Male,West,2019-05-21,Standard,14.99,PayPal,5.635342034,Drama,TV,1.615685624,1019,4,0,,
+68,34,Male,North,2022-02-08,Standard,14.99,Credit Card,33.46099649,Action,Tablet,2.871244196,1012,5,0,,
+69,53,Female,North,2019-12-25,Basic,9.99,Credit Card,8.396523674,Action,PC,1.541695093,1076,2,0,,
+70,67,Male,South,2023-11-06,Standard,14.99,Credit Card,2.364135485,Drama,TV,3.675000481,1042,3,0,,
+71,57,Female,East,2021-06-07,Standard,14.99,Credit Card,16.89845659,Action,Mobile,0.06799594,1010,4,1,53:37.7,Dissatisfied with content
+72,21,Female,Central,2020-01-14,Basic,9.99,Credit Card,17.42463633,Drama,Mobile,0.913786538,1047,5,1,53:37.7,Personal reasons
+73,19,Other,West,2023-04-06,Basic,9.99,Direct Debit,25.08397724,Drama,PC,0.541179016,1014,3,0,,
+74,23,Female,West,2019-08-14,Basic,9.99,Credit Card,5.494512306,Drama,TV,1.185782025,1016,1,0,,
+75,59,Other,East,2022-03-20,Standard,14.99,Direct Debit,11.73151617,Comedy,TV,0.150258449,1053,1,0,,
+76,21,Female,South,2020-03-11,Premium,19.99,Credit Card,6.635965267,Action,Tablet,6.163959517,1049,3,0,,
+77,46,Female,South,2019-09-28,Basic,9.99,Direct Debit,1.688376327,Sci-Fi,Mobile,0.505287368,1027,2,1,53:37.7,Dissatisfied with content
+78,35,Female,Central,2021-11-12,Basic,9.99,PayPal,41.84872448,Drama,Tablet,5.110000194,1082,3,0,,
+79,43,Other,North,2020-08-19,Standard,14.99,PayPal,26.10312294,Action,Mobile,1.109879518,1003,3,0,,
+80,61,Other,Central,2024-01-01,Standard,14.99,Credit Card,7.175344323,Documentary,Mobile,8.470544757,1021,4,0,,
+81,51,Male,East,2020-01-07,Standard,14.99,Credit Card,18.29448883,Drama,PC,1.61513448,1085,1,0,,
+82,27,Other,East,2020-01-08,Standard,14.99,Credit Card,4.494490712,Drama,Mobile,5.34245889,1038,1,0,,
+83,53,Other,West,2024-05-06,Standard,14.99,Direct Debit,44.18856675,Sci-Fi,TV,0.010726692,1033,5,0,,
+84,31,Other,East,2021-01-31,Standard,14.99,Direct Debit,2.441236257,Comedy,Tablet,2.758548569,1096,3,0,,
+85,48,Other,Central,2019-11-06,Premium,19.99,Credit Card,0.076890525,Comedy,Tablet,4.667133268,1043,3,0,,
+86,65,Male,Central,2024-04-18,Premium,19.99,Credit Card,13.94343327,Drama,Mobile,0.300996041,1041,2,0,,
+87,32,Other,East,2020-08-20,Basic,9.99,Credit Card,17.4995127,Action,Mobile,0.20213029,1039,1,0,,
+88,25,Female,South,2022-10-01,Basic,9.99,PayPal,17.30080148,Documentary,Mobile,1.105284445,1096,2,0,,
+89,31,Female,East,2023-02-06,Basic,9.99,Credit Card,1.121080118,Documentary,TV,5.426494549,1011,4,0,,
+90,40,Other,Central,2021-09-23,Standard,14.99,PayPal,7.538830236,Action,TV,1.563460938,1001,5,0,,
+91,57,Other,South,2021-03-31,Premium,19.99,Direct Debit,13.83092712,Drama,Tablet,1.499250792,1027,2,0,,
+92,38,Female,West,2020-10-23,Standard,14.99,Credit Card,4.881705776,Documentary,Mobile,0.304266375,1073,1,1,53:37.7,Price increase
+93,33,Female,West,2023-02-17,Basic,9.99,Credit Card,41.21253479,Comedy,TV,0.001579646,1085,4,0,,
+94,62,Male,West,2020-11-20,Standard,14.99,Credit Card,1.822782185,Action,Mobile,3.322937597,1080,3,0,,
+95,35,Female,North,2020-09-20,Standard,14.99,Credit Card,13.36458227,Sci-Fi,Mobile,0.183297819,1089,4,0,,
+96,64,Female,West,2022-09-13,Basic,9.99,Credit Card,23.51522748,Drama,Tablet,2.009423397,1066,2,0,,
+97,70,Other,Central,2024-01-25,Standard,14.99,Credit Card,6.069484971,Action,TV,4.921203745,1070,1,0,,
+98,41,Female,North,2021-08-23,Standard,14.99,Direct Debit,19.57613197,Documentary,Mobile,0.468034698,1071,2,0,,
+99,43,Male,South,2020-11-10,Standard,14.99,Credit Card,35.36693206,Drama,Mobile,2.188879031,1083,3,1,53:37.7,Price increase
+100,42,Female,Central,2020-04-21,Basic,9.99,Credit Card,4.22274273,Comedy,TV,0.163936036,1075,3,1,53:37.7,Dissatisfied with content
+101,62,Other,North,2022-12-04,Basic,9.99,Direct Debit,49.83151884,Drama,Mobile,1.85144587,1098,1,0,,
+102,58,Other,Central,2021-02-15,Standard,14.99,PayPal,16.12893959,Drama,Mobile,0.358089991,1080,5,0,,
+103,46,Female,East,2021-12-30,Basic,9.99,Credit Card,7.111568173,Comedy,Tablet,2.663260568,1091,4,0,,
+104,32,Other,South,2023-11-15,Standard,14.99,Credit Card,11.27251598,Comedy,TV,0.716870971,1009,4,0,,
+105,62,Male,Central,2020-08-09,Standard,14.99,Credit Card,7.484907616,Drama,Tablet,1.244971171,1085,3,0,,
+106,18,Male,East,2019-09-17,Standard,14.99,PayPal,25.82776962,Comedy,TV,1.829736199,1056,2,1,53:37.7,Dissatisfied with content
+107,42,Female,East,2021-08-06,Premium,19.99,PayPal,31.82220425,Action,PC,0.375729972,1096,2,0,,
+108,24,Female,South,2023-03-03,Standard,14.99,PayPal,35.78773281,Comedy,Mobile,2.706785749,1085,5,1,53:37.7,Personal reasons
+109,26,Female,East,2022-05-11,Basic,9.99,Credit Card,85.04559731,Comedy,TV,0.720907981,1036,2,0,,
+110,41,Other,North,2019-08-29,Standard,14.99,Direct Debit,31.33564408,Drama,Tablet,2.171620333,1076,4,0,,
+111,18,Male,South,2019-08-31,Standard,14.99,Credit Card,18.39513818,Action,Mobile,0.344622972,1090,2,0,,
+112,61,Male,Central,2022-01-08,Standard,14.99,Credit Card,8.286695503,Sci-Fi,Tablet,2.33025855,1063,5,0,,
+113,25,Other,South,2019-09-29,Basic,9.99,Credit Card,15.73138263,Sci-Fi,Mobile,0.274363116,1078,4,0,,
+114,41,Male,West,2020-08-28,Premium,19.99,Credit Card,0.83870588,Documentary,Mobile,1.108010848,1085,2,0,,
+115,28,Female,South,2021-08-21,Standard,14.99,Credit Card,27.31611981,Comedy,Mobile,0.567927518,1093,4,0,,
+116,68,Female,West,2019-09-14,Basic,9.99,Direct Debit,11.81020704,Comedy,Tablet,2.759632773,1039,3,0,,
+117,34,Female,North,2022-08-07,Basic,9.99,Direct Debit,0.404528228,Action,TV,0.607717774,1097,3,0,,
+118,25,Male,Central,2023-03-14,Basic,9.99,Credit Card,1.290918509,Sci-Fi,Tablet,4.269355622,1059,3,0,,
+119,52,Female,East,2022-09-21,Premium,19.99,Credit Card,9.803031702,Documentary,TV,4.447921454,1097,2,1,53:37.7,Found better service
+120,52,Other,South,2023-01-08,Basic,9.99,Credit Card,17.51360811,Action,Mobile,0.43741012,1047,5,0,,
+121,50,Other,North,2019-09-28,Basic,9.99,Credit Card,12.48003384,Comedy,Mobile,1.903037766,1098,4,0,,
+122,22,Male,North,2019-06-28,Premium,19.99,Credit Card,19.30984627,Sci-Fi,Mobile,0.183611467,1018,1,1,53:37.7,Personal reasons
+123,59,Other,East,2023-03-22,Standard,14.99,Direct Debit,13.0898502,Documentary,Mobile,0.993638675,1071,3,1,53:37.7,Found better service
+124,56,Other,South,2021-10-14,Basic,9.99,Credit Card,21.67667141,Drama,Mobile,2.498789401,1032,3,0,,
+125,58,Male,Central,2021-04-25,Basic,9.99,Credit Card,4.946831132,Sci-Fi,PC,2.154229531,1043,1,0,,
+126,45,Female,East,2021-03-27,Basic,9.99,Credit Card,2.394670444,Documentary,TV,1.960062713,1091,1,0,,
+127,24,Female,South,2019-07-12,Basic,9.99,Direct Debit,18.14830247,Action,TV,0.664078572,1036,2,1,53:37.7,Personal reasons
+128,26,Female,West,2023-06-10,Standard,14.99,PayPal,13.2597136,Drama,Mobile,0.949710597,1088,4,1,53:37.7,Price increase
+129,25,Male,West,2020-07-05,Basic,9.99,Direct Debit,0.544703752,Documentary,TV,0.217278759,1035,3,0,,
+130,29,Other,North,2019-06-24,Basic,9.99,PayPal,9.576266756,Documentary,Mobile,2.538963649,1080,5,0,,
+131,51,Female,North,2022-07-22,Standard,14.99,Credit Card,2.243799792,Comedy,Mobile,1.401910355,1087,2,0,,
+132,50,Female,North,2024-03-27,Standard,14.99,Credit Card,15.15827271,Sci-Fi,TV,2.467253898,1020,2,0,,
+133,65,Male,West,2019-06-09,Standard,14.99,PayPal,10.07626137,Comedy,PC,0.57254886,1001,5,0,,
+134,40,Female,West,2021-09-21,Standard,14.99,Credit Card,18.99446396,Drama,Mobile,0.784421361,1030,5,0,,
+135,41,Male,East,2019-05-13,Standard,14.99,Credit Card,32.75697601,Documentary,Tablet,0.81357798,1096,5,1,53:37.7,Dissatisfied with content
+136,54,Other,Central,2024-01-23,Standard,14.99,Credit Card,7.124034942,Comedy,Mobile,0.052159088,1029,1,0,,
+137,52,Male,Central,2023-10-18,Standard,14.99,Credit Card,65.45719375,Sci-Fi,PC,0.834208784,1075,3,0,,
+138,61,Male,East,2023-02-12,Standard,14.99,Credit Card,15.34166645,Drama,Tablet,3.25219761,1043,1,0,,
+139,57,Male,Central,2020-10-25,Premium,19.99,Credit Card,19.26192427,Action,TV,4.55185703,1011,3,0,,
+140,39,Male,South,2021-11-09,Basic,9.99,PayPal,22.8307532,Comedy,Mobile,1.460528409,1050,1,1,53:37.7,Found better service
+141,44,Other,North,2023-10-10,Standard,14.99,Credit Card,21.97613794,Drama,Mobile,1.2157809,1048,4,0,,
+142,52,Other,South,2022-10-22,Basic,9.99,Credit Card,14.30665922,Action,Tablet,0.062619383,1023,3,0,,
+143,18,Female,North,2021-03-22,Standard,14.99,Credit Card,11.19906709,Comedy,Tablet,4.227309803,1023,2,0,,
+144,52,Other,East,2022-05-25,Standard,14.99,Credit Card,1.105645093,Drama,Mobile,0.026191175,1059,3,0,,
+145,54,Other,Central,2020-07-06,Premium,19.99,Credit Card,0.446667784,Drama,PC,5.791776781,1010,3,1,53:37.7,Price increase
+146,64,Female,North,2020-01-14,Basic,9.99,Credit Card,8.862130649,Comedy,TV,1.343617931,1012,3,0,,
+147,31,Other,North,2020-01-25,Standard,14.99,Credit Card,8.119131296,Drama,TV,0.836901598,1090,4,0,,
+148,20,Male,East,2022-03-28,Standard,14.99,Credit Card,9.81050015,Documentary,TV,5.159800439,1071,1,0,,
+149,18,Male,Central,2021-04-25,Standard,14.99,Credit Card,2.978544935,Comedy,TV,0.049386761,1073,2,1,53:37.7,Personal reasons
+150,22,Female,South,2023-02-08,Standard,14.99,Credit Card,26.80106471,Drama,Tablet,1.741797885,1071,1,0,,
+151,43,Female,East,2022-07-10,Standard,14.99,Credit Card,38.89323664,Action,TV,1.592276675,1063,1,1,53:37.7,Price increase
+152,31,Female,North,2022-08-17,Standard,14.99,Credit Card,55.84428429,Action,Mobile,0.495180916,1019,5,0,,
+153,56,Male,North,2020-02-20,Standard,14.99,Credit Card,13.55974564,Documentary,Mobile,1.120337892,1071,4,0,,
+154,44,Other,Central,2019-11-21,Standard,14.99,PayPal,24.13725279,Comedy,Mobile,2.11262345,1072,5,0,,
+155,26,Male,Central,2019-09-09,Basic,9.99,Credit Card,38.69659259,Drama,Tablet,2.597528348,1070,4,0,,
+156,32,Female,North,2023-04-16,Premium,19.99,Credit Card,10.83570295,Drama,Mobile,0.001434232,1077,1,0,,
+157,32,Other,Central,2020-08-02,Standard,14.99,Credit Card,7.404260428,Action,TV,5.524593496,1027,1,0,,
+158,43,Other,West,2023-07-16,Premium,19.99,PayPal,55.20515907,Documentary,Mobile,0.359510599,1001,4,1,53:37.7,Found better service
+159,59,Male,Central,2023-08-23,Basic,9.99,Direct Debit,14.50004625,Action,Mobile,0.532051046,1042,1,0,,
+160,30,Female,East,2021-04-28,Premium,19.99,PayPal,13.75339962,Action,Tablet,0.611619978,1007,1,1,53:37.7,Found better service
+161,68,Male,East,2023-08-13,Premium,19.99,PayPal,3.930424246,Documentary,Mobile,0.077107755,1012,2,1,53:37.7,Found better service
+162,49,Other,East,2023-03-15,Standard,14.99,Credit Card,2.289258893,Comedy,Mobile,0.262615445,1084,5,0,,
+163,56,Male,West,2023-09-15,Standard,14.99,PayPal,36.91673639,Drama,Mobile,8.588020225,1091,5,0,,
+164,66,Male,North,2020-09-10,Standard,14.99,Credit Card,19.0452597,Comedy,Tablet,0.757305791,1034,5,0,,
+165,69,Female,North,2021-08-25,Premium,19.99,Credit Card,7.885298817,Sci-Fi,Tablet,0.245015814,1022,3,0,,
+166,49,Female,South,2020-07-26,Standard,14.99,Credit Card,4.257336202,Sci-Fi,PC,0.226317824,1045,2,0,,
+167,21,Other,West,2020-12-17,Basic,9.99,Credit Card,16.2159821,Sci-Fi,PC,2.542077693,1014,5,1,53:37.7,Price increase
+168,47,Male,South,2022-10-11,Standard,14.99,Direct Debit,17.53752043,Documentary,Tablet,3.856102443,1001,5,0,,
+169,54,Male,West,2024-03-19,Premium,19.99,Credit Card,4.638479767,Action,Mobile,0.593990073,1060,2,0,,
+170,40,Male,Central,2021-03-13,Premium,19.99,PayPal,38.13071655,Comedy,Mobile,0.042262424,1075,1,0,,
+171,56,Other,North,2023-09-27,Premium,19.99,Credit Card,1.760551306,Drama,PC,0.504861578,1063,5,0,,
+172,62,Other,West,2021-10-29,Standard,14.99,Credit Card,8.80402211,Sci-Fi,Mobile,0.116351089,1051,1,0,,
+173,32,Female,East,2020-10-12,Basic,9.99,Credit Card,22.81272597,Comedy,Mobile,0.2182796,1035,5,0,,
+174,60,Female,Central,2020-06-05,Basic,9.99,Credit Card,6.407421366,Sci-Fi,PC,1.129536498,1066,4,0,,
+175,46,Female,North,2020-02-29,Basic,9.99,Direct Debit,35.16748361,Sci-Fi,Tablet,0.522517516,1068,3,0,,
+176,53,Male,West,2020-09-27,Basic,9.99,Credit Card,26.93130836,Drama,Mobile,1.451117115,1066,5,1,53:37.7,Dissatisfied with content
+177,30,Male,Central,2019-05-14,Standard,14.99,Credit Card,31.12010839,Documentary,Mobile,0.584702588,1046,4,1,53:37.7,Found better service
+178,49,Female,Central,2023-08-04,Basic,9.99,Direct Debit,2.536371729,Action,TV,5.644812145,1082,2,0,,
+179,24,Male,West,2020-05-06,Standard,14.99,Credit Card,3.029185751,Documentary,TV,4.727729177,1001,4,0,,
+180,68,Female,East,2021-04-02,Premium,19.99,Direct Debit,6.750720702,Comedy,PC,1.673139714,1043,2,0,,
+181,39,Other,West,2019-09-29,Standard,14.99,Credit Card,14.59942543,Documentary,Tablet,0.87522465,1063,5,0,,
+182,45,Female,Central,2023-03-14,Premium,19.99,Credit Card,27.5677998,Comedy,Tablet,0.959774647,1080,2,0,,
+183,19,Other,East,2022-09-04,Standard,14.99,Credit Card,36.22262482,Comedy,TV,1.061554287,1077,4,0,,
+184,59,Male,North,2020-05-15,Basic,9.99,Credit Card,24.37058582,Action,TV,2.600815595,1027,3,0,,
+185,62,Female,Central,2023-04-28,Standard,14.99,Credit Card,52.78827469,Drama,Mobile,1.201642883,1090,1,1,53:37.7,Found better service
+186,70,Male,West,2024-02-24,Basic,9.99,PayPal,26.84505265,Action,TV,3.886047887,1053,1,0,,
+187,23,Other,West,2019-10-23,Standard,14.99,Direct Debit,7.313387946,Documentary,Mobile,5.768195256,1073,3,1,53:37.7,Personal reasons
+188,45,Other,South,2021-06-18,Standard,14.99,PayPal,6.159907536,Comedy,Mobile,0.818784077,1066,1,0,,
+189,45,Other,West,2021-01-11,Basic,9.99,Credit Card,23.82721676,Sci-Fi,PC,1.645120332,1035,5,0,,
+190,61,Male,South,2020-07-19,Basic,9.99,Credit Card,4.285424756,Sci-Fi,Tablet,0.199765618,1062,5,0,,
+191,61,Male,West,2019-05-10,Standard,14.99,Credit Card,1.94596894,Comedy,TV,0.447460066,1024,4,0,,
+192,37,Male,North,2020-04-23,Premium,19.99,Credit Card,15.1952665,Action,Mobile,1.067048488,1085,4,0,,
+193,47,Male,West,2023-10-25,Standard,14.99,PayPal,34.47920201,Drama,Tablet,0.46185432,1047,2,0,,
+194,28,Other,Central,2021-02-12,Standard,14.99,Credit Card,2.137897009,Action,TV,4.184008094,1038,4,0,,
+195,45,Other,North,2021-01-27,Basic,9.99,Credit Card,31.39389708,Comedy,TV,0.344630588,1046,5,1,53:37.7,Personal reasons
+196,42,Female,Central,2022-01-11,Standard,14.99,Credit Card,33.38078662,Comedy,Mobile,1.216365473,1093,4,1,53:37.7,Found better service
+197,56,Female,East,2021-06-07,Standard,14.99,Direct Debit,13.16618269,Drama,Mobile,1.861282624,1020,1,0,,
+198,50,Male,Central,2021-05-16,Standard,14.99,Credit Card,1.180362346,Documentary,PC,2.354427474,1029,2,0,,
+199,18,Other,West,2024-04-14,Premium,19.99,Credit Card,3.837497324,Documentary,Mobile,0.965997384,1091,2,0,,
+200,44,Other,East,2023-05-13,Standard,14.99,Credit Card,24.58077187,Drama,TV,4.066628983,1030,5,0,,
+201,69,Other,West,2021-05-04,Premium,19.99,Credit Card,24.88048143,Documentary,TV,1.680137479,1025,4,0,,
+202,30,Female,Central,2022-10-25,Premium,19.99,Credit Card,45.72543271,Sci-Fi,Mobile,1.157879836,1021,1,0,,
+203,58,Female,East,2022-07-05,Basic,9.99,Credit Card,17.47833388,Documentary,Mobile,0.139216051,1020,4,0,,
+204,20,Other,South,2021-03-22,Standard,14.99,PayPal,2.650235229,Documentary,Mobile,1.249816535,1000,3,0,,
+205,56,Other,West,2019-11-14,Premium,19.99,Credit Card,2.588850253,Documentary,TV,3.437789623,1036,4,0,,
+206,23,Other,Central,2020-07-03,Basic,9.99,PayPal,25.54036018,Sci-Fi,Mobile,1.906640989,1076,5,0,,
+207,25,Female,West,2022-06-28,Standard,14.99,Direct Debit,4.061541361,Documentary,Tablet,3.569517508,1084,4,0,,
+208,44,Other,West,2020-10-01,Premium,19.99,PayPal,7.961415264,Sci-Fi,Tablet,1.362483349,1045,2,1,53:37.7,Dissatisfied with content
+209,26,Other,East,2023-02-22,Standard,14.99,Credit Card,13.35785576,Drama,Tablet,0.25217367,1008,1,1,53:37.7,Personal reasons
+210,54,Male,Central,2019-09-19,Basic,9.99,Credit Card,0.501533717,Action,Mobile,0.027467446,1016,5,0,,
+211,50,Male,North,2021-10-17,Standard,14.99,PayPal,5.722173605,Drama,Mobile,0.722569812,1046,3,0,,
+212,68,Female,East,2024-04-30,Basic,9.99,PayPal,10.48124379,Action,TV,2.394593422,1084,1,1,53:37.7,Dissatisfied with content
+213,59,Other,North,2021-01-03,Standard,14.99,Credit Card,6.559981626,Drama,TV,3.123772305,1094,1,1,53:37.7,Personal reasons
+214,61,Other,South,2023-03-13,Basic,9.99,PayPal,2.932224436,Action,PC,0.701251795,1058,2,1,53:37.7,Found better service
+215,41,Male,South,2019-12-28,Standard,14.99,Credit Card,26.03996558,Action,Mobile,1.368985163,1053,2,0,,
+216,32,Female,South,2022-01-25,Standard,14.99,Credit Card,33.54873148,Comedy,Mobile,1.093316368,1085,2,1,53:37.7,Price increase
+217,49,Male,West,2021-01-06,Standard,14.99,Credit Card,5.954081875,Action,PC,1.05703842,1011,5,0,,
+218,49,Male,South,2022-10-26,Standard,14.99,Credit Card,29.78156351,Action,Mobile,0.526235751,1063,4,0,,
+219,41,Male,East,2021-02-20,Standard,14.99,Credit Card,9.740670425,Comedy,TV,0.293224244,1005,1,1,53:37.7,Price increase
+220,58,Male,South,2019-05-23,Standard,14.99,PayPal,14.13217934,Documentary,PC,0.438025585,1052,4,0,,
+221,69,Other,South,2019-09-18,Basic,9.99,Credit Card,38.75898888,Documentary,Mobile,0.113844292,1015,4,1,53:37.7,Personal reasons
+222,66,Other,South,2020-12-28,Standard,14.99,Credit Card,27.72218211,Comedy,TV,0.441619408,1089,2,0,,
+223,66,Male,North,2020-04-30,Basic,9.99,Credit Card,32.70710275,Sci-Fi,TV,0.018486975,1004,4,1,53:37.7,Price increase
+224,69,Female,West,2021-11-05,Premium,19.99,Credit Card,2.94322382,Action,Mobile,1.973739725,1072,1,0,,
+225,29,Female,West,2020-05-25,Basic,9.99,Credit Card,1.445380914,Action,Tablet,0.760692706,1045,1,1,53:37.7,Dissatisfied with content
+226,56,Female,West,2020-05-17,Standard,14.99,PayPal,44.77432262,Comedy,Mobile,7.23458502,1013,3,0,,
+227,19,Female,East,2021-08-04,Standard,14.99,PayPal,9.815044636,Comedy,Mobile,0.430641089,1043,5,0,,
+228,20,Male,South,2020-03-26,Standard,14.99,PayPal,6.790167807,Sci-Fi,Mobile,0.848771674,1062,4,0,,
+229,66,Other,Central,2020-03-30,Basic,9.99,PayPal,25.79760522,Documentary,Tablet,0.885839179,1093,5,0,,
+230,54,Female,East,2024-01-02,Standard,14.99,Credit Card,36.20852386,Drama,TV,0.016974825,1051,5,0,,
+231,66,Male,East,2023-04-08,Standard,14.99,Credit Card,39.68111775,Documentary,Tablet,3.655286765,1025,5,0,,
+232,34,Female,North,2022-02-10,Standard,14.99,Credit Card,7.595863635,Action,Mobile,0.065034937,1052,5,0,,
+233,66,Female,South,2021-12-08,Standard,14.99,Credit Card,38.23958223,Comedy,PC,5.632824926,1028,1,0,,
+234,19,Male,South,2022-10-09,Standard,14.99,Direct Debit,0.835906536,Sci-Fi,Mobile,4.45262545,1018,4,0,,
+235,19,Other,South,2023-06-17,Standard,14.99,Credit Card,1.018740662,Documentary,TV,1.533681808,1046,3,1,53:37.7,Personal reasons
+236,45,Other,East,2020-06-21,Standard,14.99,Credit Card,19.53776432,Sci-Fi,Tablet,1.568751931,1007,5,0,,
+237,40,Male,East,2021-10-20,Standard,14.99,Direct Debit,1.303710482,Documentary,Mobile,2.121349737,1022,3,0,,
+238,54,Other,West,2019-08-30,Standard,14.99,Direct Debit,7.849274921,Action,Mobile,0.978943864,1034,1,0,,
+239,49,Male,West,2019-10-29,Basic,9.99,PayPal,22.34098334,Drama,PC,2.083834237,1094,1,0,,
+240,50,Male,Central,2020-05-04,Basic,9.99,Credit Card,8.22765856,Sci-Fi,Mobile,0.091602886,1052,2,0,,
+241,18,Male,West,2020-12-26,Basic,9.99,Credit Card,3.959259728,Sci-Fi,PC,0.111126114,1098,5,0,,
+242,36,Other,Central,2020-03-19,Basic,9.99,Credit Card,6.607633846,Drama,Mobile,1.222140789,1095,2,1,53:37.7,Personal reasons
+243,19,Male,North,2022-01-25,Standard,14.99,Credit Card,12.23412129,Sci-Fi,Mobile,1.595337435,1057,3,1,53:37.7,Found better service
+244,70,Female,North,2021-06-17,Standard,14.99,Credit Card,12.90184498,Sci-Fi,Tablet,4.375259041,1004,4,0,,
+245,61,Other,North,2020-06-25,Basic,9.99,Credit Card,30.55717983,Documentary,TV,0.221104905,1015,2,0,,
+246,43,Other,West,2019-11-01,Premium,19.99,Direct Debit,27.73814934,Documentary,TV,3.45923682,1016,1,0,,
+247,49,Other,Central,2020-05-10,Basic,9.99,Credit Card,12.20620961,Drama,Mobile,0.471564512,1031,5,0,,
+248,23,Other,South,2022-01-21,Standard,14.99,PayPal,37.37289871,Action,Mobile,1.002026673,1095,3,1,53:37.7,Price increase
+249,49,Female,Central,2021-10-24,Standard,14.99,PayPal,2.4261203,Sci-Fi,Mobile,0.761357004,1051,1,0,,
+250,21,Other,North,2020-07-07,Standard,14.99,Credit Card,5.896909375,Action,Tablet,1.022168891,1019,4,0,,
+251,28,Other,Central,2020-08-08,Basic,9.99,PayPal,35.20247943,Drama,Tablet,0.326204077,1065,5,0,,
+252,34,Male,South,2023-02-19,Standard,14.99,Credit Card,9.496112042,Drama,TV,1.400625884,1083,4,0,,
+253,55,Other,North,2019-12-17,Standard,14.99,Credit Card,79.45835949,Documentary,TV,3.235369547,1081,4,0,,
+254,41,Female,East,2024-02-22,Premium,19.99,PayPal,12.55667725,Sci-Fi,Mobile,1.165123117,1000,5,0,,
+255,22,Female,South,2022-10-28,Standard,14.99,Credit Card,31.39815484,Comedy,Tablet,1.349096735,1057,5,0,,
+256,69,Female,South,2019-06-07,Premium,19.99,Direct Debit,10.29356208,Drama,TV,3.77787491,1092,4,0,,
+257,51,Female,South,2019-09-21,Basic,9.99,Credit Card,11.0660881,Sci-Fi,TV,2.4487464,1092,3,1,53:37.7,Personal reasons
+258,23,Other,Central,2021-02-13,Standard,14.99,Credit Card,9.65393769,Action,Mobile,1.348471895,1082,5,0,,
+259,39,Other,East,2020-05-14,Standard,14.99,Credit Card,25.39339516,Documentary,Mobile,0.595991885,1043,1,0,,
+260,28,Female,South,2023-05-10,Standard,14.99,Credit Card,15.86014079,Action,Tablet,4.324372739,1005,2,1,53:37.7,Found better service
+261,65,Female,West,2023-02-14,Basic,9.99,Credit Card,57.56898241,Drama,Mobile,1.720862664,1049,3,0,,
+262,33,Other,West,2020-11-26,Standard,14.99,PayPal,5.777397326,Drama,Mobile,0.499867475,1071,5,0,,
+263,50,Female,South,2020-01-02,Standard,14.99,Direct Debit,2.119719382,Action,Mobile,0.627011306,1087,5,0,,
+264,26,Male,East,2023-08-19,Standard,14.99,Direct Debit,9.993147269,Drama,PC,3.250454714,1019,3,0,,
+265,23,Female,North,2024-01-03,Standard,14.99,Credit Card,19.17940921,Sci-Fi,Mobile,0.090299278,1013,2,0,,
+266,33,Female,North,2021-11-08,Premium,19.99,PayPal,39.43671788,Drama,Mobile,9.679808049,1004,4,1,53:37.7,Dissatisfied with content
+267,46,Male,West,2023-09-05,Basic,9.99,PayPal,8.498980456,Documentary,Mobile,0.279332757,1040,1,0,,
+268,20,Male,North,2022-11-12,Premium,19.99,PayPal,21.21400735,Sci-Fi,TV,3.179942501,1039,5,0,,
+269,37,Other,East,2023-01-08,Premium,19.99,Credit Card,8.621772519,Comedy,TV,1.004311025,1033,2,1,53:37.7,Personal reasons
+270,53,Other,West,2024-01-06,Premium,19.99,PayPal,19.20587556,Drama,Tablet,1.355398959,1079,1,0,,
+271,36,Male,North,2024-01-03,Standard,14.99,Direct Debit,43.22309035,Drama,Tablet,4.251399529,1044,3,0,,
+272,43,Male,East,2020-01-16,Standard,14.99,Credit Card,5.262589842,Documentary,TV,1.06515835,1070,5,0,,
+273,20,Other,South,2023-11-19,Premium,19.99,Direct Debit,10.35840268,Documentary,Mobile,1.542190433,1079,4,1,53:37.7,Price increase
+274,36,Female,Central,2024-01-04,Basic,9.99,Credit Card,100.0093327,Action,Mobile,0.101112737,1070,3,1,53:37.7,Price increase
+275,37,Male,East,2021-06-13,Standard,14.99,Credit Card,40.58364393,Action,Mobile,0.004700467,1026,5,1,53:37.7,Found better service
+276,49,Other,Central,2021-04-22,Standard,14.99,Credit Card,16.63163355,Action,Mobile,0.561544992,1077,2,1,53:37.7,Personal reasons
+277,24,Female,East,2022-07-31,Standard,14.99,Credit Card,14.53935782,Documentary,Mobile,2.282516221,1077,1,0,,
+278,69,Male,North,2019-08-10,Basic,9.99,Credit Card,6.698279731,Action,TV,0.258543569,1043,1,0,,
+279,58,Female,West,2022-03-13,Standard,14.99,Direct Debit,14.56344634,Action,PC,0.24153939,1032,5,0,,
+280,50,Other,Central,2023-10-19,Premium,19.99,Credit Card,37.70139078,Comedy,Tablet,1.058524436,1032,3,0,,
+281,57,Male,West,2023-05-04,Basic,9.99,Direct Debit,23.11473608,Action,TV,2.087322504,1043,4,0,,
+282,56,Female,Central,2022-03-02,Premium,19.99,Direct Debit,6.851046448,Drama,Mobile,2.490089606,1019,2,1,53:37.7,Dissatisfied with content
+283,35,Male,Central,2024-02-20,Basic,9.99,Credit Card,4.499502579,Documentary,Mobile,0.393126599,1035,5,0,,
+284,57,Female,South,2024-03-09,Standard,14.99,Direct Debit,6.163370877,Sci-Fi,Tablet,0.165868086,1006,2,1,53:37.7,Price increase
+285,18,Other,South,2023-03-03,Basic,9.99,Direct Debit,3.720790029,Comedy,PC,5.64009988,1031,1,0,,
+286,28,Other,West,2022-08-08,Basic,9.99,PayPal,2.010570748,Documentary,Mobile,0.604012031,1066,4,0,,
+287,45,Male,East,2020-03-05,Premium,19.99,PayPal,10.86477858,Documentary,Tablet,3.839365202,1038,2,1,53:37.7,Found better service
+288,42,Female,Central,2024-01-19,Standard,14.99,Direct Debit,2.404962529,Drama,PC,3.982736065,1092,5,0,,
+289,67,Male,Central,2019-07-13,Standard,14.99,PayPal,3.772730471,Action,PC,2.9614087,1023,4,0,,
+290,40,Male,South,2021-08-03,Basic,9.99,Credit Card,15.85160306,Drama,PC,0.369850543,1085,3,0,,
+291,48,Female,South,2020-10-13,Standard,14.99,Direct Debit,3.59687515,Action,Mobile,3.449713906,1069,5,1,53:37.7,Dissatisfied with content
+292,47,Female,West,2024-02-29,Standard,14.99,PayPal,1.320227143,Action,Mobile,2.932845658,1087,2,1,53:37.7,Dissatisfied with content
+293,59,Female,South,2021-05-10,Standard,14.99,Credit Card,7.636598162,Documentary,Tablet,1.816263167,1086,4,0,,
+294,52,Other,Central,2021-02-03,Standard,14.99,Credit Card,4.977410876,Action,Mobile,0.822570128,1053,5,0,,
+295,24,Male,East,2020-03-16,Premium,19.99,PayPal,14.48471679,Comedy,TV,0.609001715,1037,4,0,,
+296,33,Male,West,2023-07-07,Standard,14.99,Credit Card,2.159881488,Comedy,Tablet,0.259965022,1073,4,0,,
+297,43,Other,North,2022-07-03,Standard,14.99,Direct Debit,27.86805433,Comedy,Mobile,1.425708458,1079,4,1,53:37.7,Dissatisfied with content
+298,65,Female,West,2023-05-08,Basic,9.99,Credit Card,47.33895674,Documentary,PC,1.760211144,1074,2,0,,
+299,69,Other,East,2022-02-06,Standard,14.99,Credit Card,27.20747826,Drama,Tablet,0.890509617,1031,5,0,,
+300,66,Other,East,2020-07-04,Standard,14.99,Credit Card,15.22111441,Sci-Fi,Mobile,1.290082378,1044,1,1,53:37.7,Personal reasons
+301,19,Other,North,2023-05-30,Standard,14.99,Credit Card,39.41788851,Action,TV,0.90358715,1060,1,1,53:37.7,Personal reasons
+302,18,Male,West,2021-10-03,Basic,9.99,PayPal,23.74351862,Sci-Fi,TV,2.048899527,1069,2,1,53:37.7,Dissatisfied with content
+303,65,Other,Central,2021-11-20,Premium,19.99,Direct Debit,0.212143604,Drama,PC,4.630514246,1087,2,1,53:37.7,Price increase
+304,29,Male,South,2020-01-11,Basic,9.99,Direct Debit,10.02048142,Drama,Mobile,0.35806258,1096,4,0,,
+305,22,Male,North,2020-07-29,Standard,14.99,Credit Card,38.06972405,Documentary,Tablet,0.960621321,1052,5,0,,
+306,54,Male,North,2020-05-28,Standard,14.99,Credit Card,8.488642746,Comedy,PC,0.303666809,1050,5,0,,
+307,49,Female,West,2021-03-31,Basic,9.99,Direct Debit,0.717003605,Comedy,Mobile,1.961358637,1075,3,0,,
+308,26,Male,West,2020-01-02,Standard,14.99,Direct Debit,27.42257001,Drama,Mobile,2.610317495,1055,3,1,53:37.7,Dissatisfied with content
+309,58,Male,East,2022-04-06,Standard,14.99,Credit Card,32.39363102,Documentary,TV,5.373930105,1026,1,0,,
+310,52,Female,South,2020-03-08,Premium,19.99,Credit Card,3.501208337,Documentary,Mobile,0.653877048,1037,3,1,53:37.7,Personal reasons
+311,36,Male,South,2023-06-01,Premium,19.99,Credit Card,15.4152782,Action,PC,5.999930675,1061,3,0,,
+312,65,Other,East,2021-10-08,Premium,19.99,Direct Debit,4.262761444,Comedy,Tablet,0.130704738,1017,1,0,,
+313,33,Other,East,2023-04-20,Basic,9.99,PayPal,25.40470379,Drama,Tablet,1.847707838,1063,1,0,,
+314,20,Male,Central,2021-08-07,Standard,14.99,Credit Card,6.336738295,Sci-Fi,Mobile,0.117659496,1076,3,0,,
+315,37,Female,North,2020-02-01,Standard,14.99,Credit Card,7.60223835,Comedy,TV,4.484376293,1029,5,0,,
+316,41,Other,West,2023-07-12,Premium,19.99,Direct Debit,37.28284277,Action,Mobile,1.50923281,1048,3,0,,
+317,50,Female,East,2023-12-20,Standard,14.99,Credit Card,12.9375792,Documentary,Tablet,2.213379754,1040,4,1,53:37.7,Dissatisfied with content
+318,41,Female,East,2023-05-14,Premium,19.99,Credit Card,22.15837628,Drama,PC,3.56251671,1012,4,0,,
+319,69,Other,West,2022-01-22,Standard,14.99,Credit Card,10.29577101,Comedy,PC,0.325768869,1033,4,0,,
+320,28,Female,West,2020-03-06,Standard,14.99,Credit Card,7.076632862,Sci-Fi,TV,0.078711893,1099,2,0,,
+321,66,Other,Central,2020-06-28,Basic,9.99,Credit Card,19.64209788,Action,Tablet,4.221965901,1093,4,0,,
+322,25,Female,North,2019-11-22,Standard,14.99,Direct Debit,3.365002289,Action,Mobile,0.756477935,1024,5,0,,
+323,53,Other,North,2020-10-11,Standard,14.99,Direct Debit,9.336169522,Comedy,TV,0.276178173,1065,2,1,53:37.7,Found better service
+324,55,Male,West,2019-10-20,Standard,14.99,Direct Debit,4.690082716,Sci-Fi,PC,1.263958305,1099,2,1,53:37.7,Price increase
+325,57,Other,East,2023-01-10,Standard,14.99,Direct Debit,23.80106708,Action,Mobile,1.824129725,1017,4,0,,
+326,37,Other,South,2021-11-10,Standard,14.99,Credit Card,57.72279631,Drama,Mobile,0.062920661,1004,3,0,,
+327,52,Other,North,2021-03-29,Basic,9.99,Direct Debit,108.1223639,Action,TV,0.64287943,1018,1,1,53:37.7,Found better service
+328,65,Other,North,2021-12-23,Standard,14.99,Credit Card,11.96680838,Sci-Fi,Mobile,0.066699699,1041,3,1,53:37.7,Personal reasons
+329,42,Female,Central,2023-12-20,Standard,14.99,PayPal,5.821232592,Documentary,PC,1.0906112,1017,3,0,,
+330,52,Male,North,2021-08-15,Standard,14.99,Direct Debit,11.69767498,Documentary,Tablet,4.509496081,1031,2,0,,
+331,42,Other,South,2023-02-27,Basic,9.99,Credit Card,37.58159518,Comedy,Mobile,8.108603546,1020,2,0,,
+332,46,Female,South,2022-12-15,Basic,9.99,Credit Card,4.613579392,Sci-Fi,PC,2.026966909,1009,2,0,,
+333,35,Male,South,2023-08-08,Basic,9.99,Credit Card,60.77097998,Action,Mobile,0.352609851,1036,5,0,,
+334,63,Male,North,2021-04-10,Standard,14.99,Credit Card,8.366927393,Action,Tablet,4.72571909,1048,5,0,,
+335,35,Male,East,2019-06-15,Basic,9.99,Credit Card,85.09542111,Documentary,Tablet,1.45236507,1085,1,0,,
+336,19,Male,North,2024-01-24,Standard,14.99,Direct Debit,36.4784918,Documentary,Tablet,0.333879284,1012,2,0,,
+337,52,Other,Central,2020-12-16,Premium,19.99,Direct Debit,33.06471725,Drama,PC,5.09509668,1054,4,0,,
+338,33,Other,South,2019-06-18,Basic,9.99,Credit Card,7.651717128,Documentary,TV,2.833251902,1016,2,1,53:37.7,Found better service
+339,58,Female,East,2019-09-23,Standard,14.99,Credit Card,0.176319171,Drama,PC,2.631338348,1008,5,0,,
+340,53,Female,Central,2022-04-06,Standard,14.99,Credit Card,9.62963815,Action,Mobile,2.47010636,1087,2,1,53:37.7,Found better service
+341,50,Female,West,2022-03-12,Premium,19.99,Direct Debit,7.185262083,Drama,Mobile,0.447136836,1043,5,0,,
+342,21,Male,East,2023-11-24,Standard,14.99,Credit Card,0.762283912,Drama,Tablet,0.473994879,1077,2,1,53:37.7,Price increase
+343,50,Male,South,2021-08-12,Standard,14.99,Credit Card,14.07871361,Comedy,TV,2.33138326,1045,4,0,,
+344,31,Other,South,2022-12-04,Premium,19.99,Credit Card,10.31781229,Documentary,TV,0.496211948,1007,1,0,,
+345,38,Male,West,2020-10-07,Standard,14.99,Credit Card,20.13287012,Drama,TV,1.154898668,1036,4,0,,
+346,65,Male,Central,2022-12-07,Premium,19.99,Credit Card,19.4142162,Action,Mobile,3.046537181,1018,5,0,,
+347,37,Male,West,2022-07-20,Basic,9.99,Direct Debit,2.573643631,Sci-Fi,Tablet,3.064514144,1062,3,1,53:37.7,Personal reasons
+348,25,Female,East,2022-09-02,Premium,19.99,Credit Card,75.41528379,Drama,Tablet,1.207570303,1091,4,0,,
+349,24,Female,West,2023-11-25,Standard,14.99,PayPal,4.138796607,Documentary,Mobile,3.142261563,1045,2,0,,
+350,20,Other,East,2019-09-28,Standard,14.99,Credit Card,11.78562051,Comedy,Mobile,3.648009154,1093,1,0,,
+351,34,Male,North,2024-03-04,Basic,9.99,PayPal,13.39320515,Action,TV,2.127122154,1070,2,0,,
+352,50,Male,East,2021-04-18,Standard,14.99,PayPal,33.53965065,Comedy,Mobile,0.518645007,1025,2,0,,
+353,65,Other,Central,2021-03-23,Basic,9.99,Credit Card,2.09009755,Sci-Fi,Mobile,0.640442981,1045,4,0,,
+354,29,Male,North,2023-08-14,Premium,19.99,Credit Card,11.19486569,Drama,Mobile,0.756209155,1045,1,1,53:37.7,Personal reasons
+355,68,Male,West,2019-09-02,Premium,19.99,Credit Card,19.80424513,Drama,TV,0.248416509,1074,3,1,53:37.7,Found better service
+356,39,Female,South,2020-01-06,Basic,9.99,Direct Debit,4.845396499,Documentary,Tablet,0.638096772,1013,2,1,53:37.7,Dissatisfied with content
+357,39,Other,East,2021-02-28,Premium,19.99,Credit Card,19.74864134,Drama,PC,0.470227884,1084,1,0,,
+358,63,Other,North,2023-09-04,Standard,14.99,Direct Debit,51.45243204,Action,TV,1.215145754,1062,3,0,,
+359,47,Other,East,2019-09-26,Standard,14.99,Credit Card,119.9748689,Sci-Fi,Mobile,4.781468005,1071,2,0,,
+360,55,Other,West,2019-06-21,Standard,14.99,PayPal,0.659785775,Comedy,PC,0.220702155,1002,1,0,,
+361,55,Female,South,2023-04-08,Basic,9.99,PayPal,5.372973335,Sci-Fi,Mobile,2.54784601,1027,4,0,,
+362,62,Female,West,2020-03-18,Basic,9.99,PayPal,7.430177517,Drama,Mobile,2.32491333,1028,2,1,53:37.7,Personal reasons
+363,68,Male,West,2023-01-17,Standard,14.99,Credit Card,10.18740368,Comedy,TV,0.201308103,1086,2,0,,
+364,25,Male,Central,2020-02-17,Premium,19.99,Credit Card,5.548224179,Documentary,PC,5.116824072,1017,1,1,53:37.7,Personal reasons
+365,44,Male,South,2021-09-03,Basic,9.99,PayPal,4.55026154,Sci-Fi,Mobile,1.680846698,1034,2,1,53:37.7,Dissatisfied with content
+366,44,Male,South,2021-01-15,Premium,19.99,Credit Card,61.82454007,Comedy,Mobile,0.904250476,1076,3,1,53:37.7,Personal reasons
+367,51,Female,North,2021-06-28,Standard,14.99,Credit Card,50.14834717,Comedy,Tablet,2.825593606,1075,2,1,53:37.7,Found better service
+368,38,Other,Central,2022-10-27,Standard,14.99,Credit Card,0.962650131,Comedy,Mobile,0.595102448,1046,5,0,,
+369,47,Female,Central,2021-07-24,Standard,14.99,Credit Card,8.274372143,Action,Mobile,2.365139238,1004,3,0,,
+370,50,Male,East,2020-02-10,Premium,19.99,Credit Card,10.38887149,Sci-Fi,Mobile,0.081042429,1074,1,0,,
+371,45,Female,Central,2019-12-14,Standard,14.99,Credit Card,5.462820415,Comedy,Mobile,3.657777052,1058,3,0,,
+372,64,Other,East,2020-02-05,Standard,14.99,Credit Card,19.82421359,Sci-Fi,TV,1.189033572,1074,5,0,,
+373,50,Other,West,2021-12-06,Standard,14.99,PayPal,20.45418874,Comedy,Mobile,2.025013673,1058,5,0,,
+374,22,Female,North,2023-12-12,Basic,9.99,PayPal,38.00974339,Documentary,Mobile,0.500099137,1046,2,0,,
+375,65,Female,West,2022-07-11,Basic,9.99,Direct Debit,27.00845179,Documentary,Tablet,2.260662389,1094,2,1,53:37.7,Personal reasons
+376,36,Female,North,2020-09-17,Standard,14.99,Direct Debit,15.64277369,Documentary,TV,2.958928095,1094,4,1,53:37.7,Found better service
+377,21,Male,Central,2022-08-26,Standard,14.99,Credit Card,21.20245821,Drama,Mobile,1.281918683,1012,3,0,,
+378,52,Female,West,2019-07-01,Standard,14.99,Credit Card,6.403796237,Comedy,Mobile,1.923240135,1077,4,0,,
+379,66,Female,West,2022-02-07,Standard,14.99,Credit Card,17.98160324,Drama,Mobile,1.218810673,1088,5,0,,
+380,34,Female,North,2021-12-25,Standard,14.99,Credit Card,13.43661026,Sci-Fi,PC,4.490357061,1032,2,0,,
+381,61,Other,South,2022-10-03,Standard,14.99,Direct Debit,2.862273813,Drama,Tablet,1.377789193,1096,2,1,53:37.7,Price increase
+382,45,Other,South,2021-07-19,Standard,14.99,Credit Card,5.555803885,Sci-Fi,TV,3.687900552,1061,2,0,,
+383,47,Male,South,2022-06-12,Premium,19.99,Credit Card,6.897565996,Sci-Fi,TV,3.232442316,1078,1,0,,
+384,46,Male,North,2019-06-17,Standard,14.99,Credit Card,51.62207015,Sci-Fi,PC,1.056977475,1015,5,0,,
+385,63,Other,Central,2020-12-02,Standard,14.99,Credit Card,5.237340386,Drama,PC,0.522949,1043,2,1,53:37.7,Price increase
+386,70,Other,East,2021-04-07,Basic,9.99,PayPal,6.828518999,Comedy,Tablet,1.042028479,1057,5,0,,
+387,23,Other,South,2019-12-09,Standard,14.99,Credit Card,9.220215888,Drama,Mobile,3.499900094,1005,2,1,53:37.7,Dissatisfied with content
+388,52,Female,South,2020-05-27,Standard,14.99,Direct Debit,21.79757506,Comedy,TV,0.516589705,1088,3,0,,
+389,58,Female,East,2020-12-14,Standard,14.99,Credit Card,2.516670915,Comedy,Mobile,1.486509076,1014,5,0,,
+390,54,Other,West,2023-03-27,Standard,14.99,Credit Card,61.55847117,Sci-Fi,Mobile,3.28079189,1003,4,0,,
+391,41,Female,East,2023-04-04,Premium,19.99,Direct Debit,40.13441475,Drama,PC,0.87229448,1055,1,0,,
+392,46,Female,Central,2022-05-23,Basic,9.99,Credit Card,17.21788083,Comedy,Mobile,2.055616085,1063,4,0,,
+393,66,Male,East,2022-06-03,Standard,14.99,Direct Debit,22.41948124,Documentary,Tablet,0.563748803,1067,5,0,,
+394,63,Other,Central,2022-04-07,Standard,14.99,Direct Debit,0.336016358,Comedy,Tablet,0.231449064,1093,2,0,,
+395,70,Other,Central,2022-12-25,Basic,9.99,PayPal,8.27835791,Documentary,Tablet,3.163492044,1033,5,0,,
+396,48,Female,South,2019-06-25,Basic,9.99,PayPal,31.75942269,Drama,TV,0.208430396,1090,1,0,,
+397,52,Other,Central,2020-04-09,Standard,14.99,Credit Card,1.612988933,Drama,Mobile,0.633209719,1094,5,0,,
+398,50,Male,North,2019-08-27,Basic,9.99,Direct Debit,6.63445801,Drama,Tablet,3.863552912,1055,2,1,53:37.7,Dissatisfied with content
+399,69,Male,Central,2021-09-06,Basic,9.99,Credit Card,17.60384527,Comedy,Tablet,0.850731499,1031,4,0,,
+400,38,Male,South,2019-07-18,Basic,9.99,PayPal,5.925390861,Action,PC,7.227198873,1008,3,1,53:37.7,Personal reasons
+401,49,Other,Central,2024-02-15,Standard,14.99,Direct Debit,54.35533735,Comedy,PC,7.797654386,1062,4,0,,
+402,40,Other,Central,2022-09-11,Standard,14.99,Direct Debit,2.809592505,Comedy,Mobile,0.624703827,1071,2,0,,
+403,50,Other,Central,2019-08-31,Standard,14.99,Direct Debit,31.92987678,Sci-Fi,PC,0.083682991,1077,2,0,,
+404,20,Other,West,2019-06-28,Premium,19.99,Credit Card,14.18344566,Sci-Fi,Mobile,2.441988937,1032,1,0,,
+405,35,Other,South,2022-03-27,Standard,14.99,Direct Debit,27.75236681,Comedy,TV,1.199264505,1086,5,0,,
+406,42,Male,North,2021-11-16,Standard,14.99,PayPal,7.442018537,Documentary,Mobile,0.212394718,1020,5,0,,
+407,59,Female,East,2023-05-08,Premium,19.99,Direct Debit,14.4510915,Sci-Fi,PC,2.458737258,1054,4,0,,
+408,48,Male,North,2023-11-26,Standard,14.99,PayPal,38.87519821,Comedy,Mobile,0.063342376,1075,3,0,,
+409,20,Other,West,2021-05-31,Standard,14.99,Credit Card,12.58010348,Action,Mobile,4.083469956,1056,3,0,,
+410,57,Male,South,2022-12-13,Standard,14.99,Credit Card,8.916989653,Documentary,Tablet,0.298514579,1001,1,0,,
+411,63,Other,Central,2020-08-23,Basic,9.99,Credit Card,15.36411334,Drama,TV,0.272354073,1012,2,0,,
+412,41,Other,West,2024-01-12,Standard,14.99,PayPal,25.27182033,Comedy,Tablet,0.386374263,1003,1,0,,
+413,67,Male,Central,2021-10-09,Standard,14.99,Credit Card,11.72403886,Comedy,TV,6.451114114,1083,5,0,,
+414,49,Other,North,2023-06-05,Standard,14.99,Credit Card,55.8973329,Documentary,Tablet,2.362918691,1049,2,0,,
+415,64,Female,Central,2021-12-08,Basic,9.99,Credit Card,6.989612676,Sci-Fi,Tablet,3.232638423,1047,1,0,,
+416,39,Other,Central,2022-05-01,Premium,19.99,Direct Debit,12.90480932,Sci-Fi,Mobile,1.013783363,1077,4,0,,
+417,40,Female,East,2022-01-18,Standard,14.99,Credit Card,28.28792364,Sci-Fi,TV,0.819888431,1029,5,0,,
+418,19,Female,West,2023-12-12,Standard,14.99,Credit Card,23.36703602,Drama,Mobile,0.534410343,1028,3,0,,
+419,44,Other,West,2019-12-21,Premium,19.99,Credit Card,39.84929099,Documentary,TV,1.310346906,1007,1,0,,
+420,59,Male,North,2020-08-29,Standard,14.99,Credit Card,114.9495511,Documentary,TV,1.605159657,1011,5,0,,
+421,19,Female,East,2023-02-19,Premium,19.99,Credit Card,11.13244696,Sci-Fi,TV,1.99812138,1040,5,0,,
+422,43,Male,South,2022-01-21,Standard,14.99,Credit Card,2.356555528,Sci-Fi,Tablet,0.594437482,1025,3,0,,
+423,34,Female,North,2021-07-05,Basic,9.99,Credit Card,0.61776085,Action,PC,5.938339636,1049,3,0,,
+424,57,Other,South,2021-10-07,Standard,14.99,Direct Debit,25.95665384,Action,PC,0.372077309,1001,3,0,,
+425,50,Other,North,2020-03-11,Standard,14.99,Direct Debit,41.43163761,Comedy,Mobile,6.742491377,1054,1,0,,
+426,26,Female,North,2019-08-17,Standard,14.99,Credit Card,4.987506972,Comedy,PC,0.02993516,1055,3,0,,
+427,60,Other,North,2023-07-25,Premium,19.99,Direct Debit,3.450150341,Documentary,Mobile,1.312187212,1013,4,0,,
+428,65,Female,Central,2022-05-18,Standard,14.99,Credit Card,1.284480031,Documentary,Tablet,0.811033733,1005,5,0,,
+429,56,Other,East,2021-03-26,Standard,14.99,PayPal,34.5985709,Drama,Mobile,1.192488953,1094,3,1,53:37.7,Personal reasons
+430,46,Male,Central,2023-01-13,Premium,19.99,PayPal,7.461370023,Drama,Mobile,1.691033597,1080,5,0,,
+431,59,Other,East,2024-04-15,Standard,14.99,Credit Card,10.2731557,Action,Mobile,1.143945699,1088,2,1,53:37.7,Dissatisfied with content
+432,43,Male,South,2020-08-03,Standard,14.99,Credit Card,13.97325493,Comedy,Tablet,1.071763343,1060,2,0,,
+433,52,Other,East,2019-07-23,Premium,19.99,Credit Card,36.58340006,Action,PC,2.638942519,1095,3,0,,
+434,67,Male,East,2022-06-24,Basic,9.99,Credit Card,21.04411191,Action,Mobile,2.315936685,1011,5,0,,
+435,42,Other,North,2019-12-30,Standard,14.99,PayPal,19.09359657,Comedy,Tablet,3.582774461,1012,2,1,53:37.7,Found better service
+436,41,Male,West,2021-11-13,Premium,19.99,Credit Card,3.863737826,Drama,Mobile,0.575254765,1018,3,0,,
+437,30,Female,South,2023-06-22,Standard,14.99,Credit Card,14.39762307,Comedy,Tablet,1.880800641,1043,5,0,,
+438,24,Female,West,2024-01-02,Standard,14.99,Credit Card,25.13207791,Sci-Fi,PC,1.759892463,1088,3,1,53:37.7,Dissatisfied with content
+439,53,Male,West,2023-08-04,Standard,14.99,Credit Card,72.43255461,Sci-Fi,Tablet,0.923238746,1094,5,0,,
+440,62,Other,North,2020-12-26,Standard,14.99,Credit Card,4.498059695,Sci-Fi,PC,1.331287938,1058,2,0,,
+441,37,Male,North,2023-10-26,Premium,19.99,Credit Card,0.191783653,Documentary,Mobile,0.753120253,1036,3,1,53:37.7,Price increase
+442,18,Other,West,2019-09-06,Basic,9.99,Direct Debit,1.565749375,Drama,PC,0.305939682,1024,2,0,,
+443,25,Female,East,2019-09-23,Basic,9.99,Credit Card,9.427370091,Drama,Tablet,0.481091212,1015,3,0,,
+444,63,Other,North,2020-01-18,Basic,9.99,Credit Card,34.35657672,Documentary,Tablet,0.223011264,1037,1,1,53:37.7,Price increase
+445,33,Female,Central,2022-06-11,Standard,14.99,PayPal,0.143354171,Action,PC,2.298146019,1042,2,1,53:37.7,Personal reasons
+446,31,Other,North,2020-10-05,Standard,14.99,Credit Card,12.20299873,Sci-Fi,Mobile,2.161902689,1086,2,0,,
+447,29,Other,West,2024-03-11,Premium,19.99,PayPal,7.986597802,Sci-Fi,PC,6.015867685,1013,4,0,,
+448,68,Other,Central,2019-07-15,Standard,14.99,PayPal,1.078180778,Action,PC,2.616285936,1005,2,0,,
+449,40,Male,South,2020-09-18,Standard,14.99,Credit Card,11.9653341,Comedy,Mobile,0.106898262,1088,5,0,,
+450,32,Male,North,2021-02-05,Basic,9.99,Credit Card,5.880676238,Comedy,Mobile,4.312561786,1022,3,0,,
+451,45,Female,North,2024-04-18,Standard,14.99,Credit Card,8.673737473,Drama,Mobile,3.970812173,1059,1,0,,
+452,51,Female,South,2020-07-13,Standard,14.99,Credit Card,24.4573576,Documentary,TV,1.171530573,1011,5,0,,
+453,19,Male,North,2023-08-17,Basic,9.99,Credit Card,14.74411246,Drama,PC,1.763117128,1012,5,0,,
+454,49,Female,West,2022-03-05,Basic,9.99,Credit Card,2.66257071,Comedy,Mobile,7.465941279,1099,5,0,,
+455,40,Male,North,2024-01-15,Basic,9.99,Credit Card,65.09759537,Action,Mobile,1.519875089,1097,5,0,,
+456,39,Other,East,2020-03-17,Basic,9.99,Credit Card,20.20712584,Drama,Tablet,4.714543611,1005,1,1,53:37.7,Price increase
+457,68,Female,Central,2020-08-25,Standard,14.99,PayPal,29.03744076,Sci-Fi,TV,0.173380147,1062,4,1,53:37.7,Price increase
+458,42,Female,Central,2022-11-12,Basic,9.99,Credit Card,1.650534055,Sci-Fi,Mobile,0.424040957,1037,2,0,,
+459,39,Male,West,2022-07-30,Standard,14.99,Credit Card,0.964032716,Action,Mobile,1.162335036,1049,5,1,53:37.7,Price increase
+460,39,Female,South,2022-10-06,Premium,19.99,Credit Card,0.392793039,Comedy,TV,1.757781853,1051,2,1,53:37.7,Price increase
+461,66,Female,West,2021-05-14,Standard,14.99,Direct Debit,4.184665679,Sci-Fi,Mobile,3.388117228,1039,2,0,,
+462,69,Other,East,2020-09-29,Premium,19.99,Credit Card,10.70265314,Sci-Fi,Mobile,8.889867293,1007,5,0,,
+463,59,Female,East,2024-04-12,Standard,14.99,Direct Debit,54.92318427,Documentary,TV,0.984830599,1060,4,0,,
+464,23,Other,North,2020-01-16,Standard,14.99,Credit Card,12.2151167,Drama,PC,0.09715321,1007,2,0,,
+465,32,Male,Central,2024-05-06,Premium,19.99,PayPal,6.856993537,Comedy,Mobile,3.230625303,1096,3,0,,
+466,60,Female,East,2021-11-08,Basic,9.99,Credit Card,16.50777113,Drama,Mobile,1.854605884,1033,2,0,,
+467,54,Other,North,2020-01-16,Premium,19.99,Credit Card,2.374197309,Comedy,Mobile,0.442647563,1078,5,0,,
+468,50,Male,South,2023-12-18,Basic,9.99,Credit Card,18.80684791,Sci-Fi,Mobile,1.365714435,1099,1,0,,
+469,25,Female,East,2019-07-05,Standard,14.99,Credit Card,16.8066017,Documentary,TV,2.711997839,1059,2,0,,
+470,70,Male,Central,2022-07-29,Basic,9.99,Credit Card,31.40367413,Drama,Tablet,2.942935907,1056,4,0,,
+471,61,Female,West,2023-11-01,Standard,14.99,Credit Card,86.3812044,Sci-Fi,PC,1.384768591,1098,3,0,,
+472,61,Male,West,2021-03-12,Standard,14.99,PayPal,5.776947602,Comedy,TV,0.728304315,1045,3,1,53:37.7,Price increase
+473,22,Male,North,2023-10-19,Standard,14.99,Direct Debit,14.25298025,Drama,Tablet,7.279613482,1021,1,0,,
+474,56,Other,East,2021-03-13,Standard,14.99,Credit Card,47.90835627,Drama,Mobile,2.17749785,1086,1,1,53:37.7,Dissatisfied with content
+475,21,Male,East,2023-08-24,Standard,14.99,Credit Card,30.76001649,Sci-Fi,Tablet,1.049299879,1039,2,0,,
+476,23,Female,North,2019-09-11,Basic,9.99,Credit Card,13.36543523,Drama,TV,0.658295282,1044,5,0,,
+477,62,Female,South,2022-11-07,Standard,14.99,PayPal,58.14404586,Documentary,TV,2.626853618,1054,4,0,,
+478,49,Other,West,2023-10-26,Premium,19.99,Credit Card,1.178800568,Documentary,Mobile,0.554627871,1050,3,1,53:37.7,Found better service
+479,69,Female,North,2022-06-04,Standard,14.99,Direct Debit,53.47257541,Sci-Fi,PC,0.376783862,1085,1,1,53:37.7,Personal reasons
+480,47,Female,East,2021-04-05,Premium,19.99,Credit Card,1.036550686,Comedy,Tablet,1.509338438,1004,4,0,,
+481,64,Female,South,2020-01-30,Premium,19.99,Credit Card,15.85072208,Sci-Fi,TV,0.684945105,1094,5,1,53:37.7,Dissatisfied with content
+482,52,Male,North,2020-10-26,Standard,14.99,PayPal,44.22583175,Documentary,Mobile,1.98259515,1012,3,0,,
+483,57,Male,South,2022-02-25,Standard,14.99,Direct Debit,6.095776403,Action,Tablet,0.250987392,1027,3,0,,
+484,69,Female,Central,2021-10-08,Basic,9.99,Credit Card,12.78259496,Action,TV,2.12808033,1083,5,0,,
+485,33,Other,Central,2020-06-29,Basic,9.99,Credit Card,7.840976578,Drama,Tablet,0.666186183,1096,3,0,,
+486,30,Male,Central,2020-10-31,Basic,9.99,Direct Debit,60.79114089,Drama,Tablet,0.000485928,1079,5,0,,
+487,67,Other,East,2023-03-20,Standard,14.99,Credit Card,34.70519285,Action,Mobile,0.271492963,1061,3,1,53:37.7,Dissatisfied with content
+488,59,Female,North,2020-07-25,Standard,14.99,Direct Debit,24.68874411,Documentary,Mobile,5.424579686,1092,2,1,53:37.7,Found better service
+489,47,Female,East,2021-05-04,Standard,14.99,Credit Card,17.71653934,Drama,Mobile,4.040152343,1086,5,1,53:37.7,Found better service
+490,36,Male,East,2020-07-28,Standard,14.99,PayPal,34.36183126,Sci-Fi,TV,0.532125675,1023,4,1,53:37.7,Found better service
+491,34,Female,Central,2019-12-12,Standard,14.99,PayPal,9.960394131,Sci-Fi,Mobile,3.013509095,1097,2,0,,
+492,36,Male,North,2019-06-08,Standard,14.99,Credit Card,11.86791411,Documentary,Tablet,1.875905298,1006,4,0,,
+493,45,Female,East,2021-11-09,Standard,14.99,Direct Debit,26.18679389,Drama,PC,7.074358047,1037,3,0,,
+494,43,Female,North,2023-11-01,Basic,9.99,Credit Card,8.855701192,Sci-Fi,Mobile,0.935550339,1036,4,1,53:37.7,Personal reasons
+495,54,Male,South,2019-09-02,Basic,9.99,Credit Card,1.320679539,Drama,Tablet,2.288018292,1067,2,0,,
+496,43,Male,West,2020-10-01,Standard,14.99,Credit Card,1.544849167,Drama,PC,0.131287805,1097,5,0,,
+497,70,Male,East,2024-03-23,Standard,14.99,Credit Card,2.45155326,Sci-Fi,TV,1.009181359,1041,1,0,,
+498,40,Female,South,2019-12-23,Standard,14.99,PayPal,40.75544939,Action,PC,6.638368315,1085,4,0,,
+499,26,Female,South,2024-02-14,Standard,14.99,Credit Card,12.78175848,Sci-Fi,PC,1.5486315,1004,1,0,,
+500,29,Other,East,2021-03-17,Standard,14.99,Credit Card,24.95726569,Documentary,Mobile,0.67901629,1063,4,1,53:37.7,Found better service
+501,70,Male,West,2023-05-15,Basic,9.99,Credit Card,9.981542687,Comedy,TV,0.256282663,1049,4,0,,
+502,18,Female,Central,2020-02-06,Basic,9.99,Credit Card,5.987292906,Sci-Fi,Mobile,2.431607295,1086,5,0,,
+503,18,Female,Central,2021-05-13,Standard,14.99,Credit Card,8.529449544,Drama,PC,2.07046412,1014,3,1,53:37.7,Personal reasons
+504,64,Male,West,2021-10-14,Standard,14.99,PayPal,31.61529347,Drama,Mobile,0.936614022,1094,2,1,53:37.7,Dissatisfied with content
+505,51,Other,South,2019-09-30,Standard,14.99,Direct Debit,19.62811505,Sci-Fi,TV,6.029477592,1072,2,0,,
+506,49,Male,West,2023-04-28,Premium,19.99,Direct Debit,55.49655412,Comedy,PC,0.044906011,1052,2,0,,
+507,65,Other,East,2023-11-27,Standard,14.99,Credit Card,22.77024283,Sci-Fi,PC,0.724017865,1024,3,1,53:37.7,Personal reasons
+508,42,Female,South,2019-07-03,Standard,14.99,Credit Card,16.88785118,Comedy,Mobile,5.078374774,1088,1,1,53:37.7,Price increase
+509,57,Other,Central,2020-07-03,Standard,14.99,Credit Card,18.84222507,Comedy,Tablet,0.774078145,1084,2,0,,
+510,62,Female,North,2019-10-01,Standard,14.99,Credit Card,57.07473983,Documentary,PC,0.581380743,1008,1,0,,
+511,70,Male,Central,2020-07-25,Standard,14.99,Credit Card,31.04234472,Drama,PC,1.528085479,1037,3,0,,
+512,18,Male,East,2021-01-11,Standard,14.99,Credit Card,0.486698897,Drama,Mobile,3.472290994,1021,3,0,,
+513,33,Male,West,2023-06-20,Standard,14.99,Credit Card,15.27738934,Comedy,TV,0.217726087,1086,5,0,,
+514,56,Other,West,2023-02-12,Basic,9.99,Direct Debit,23.31674664,Drama,TV,5.730134809,1048,2,0,,
+515,22,Female,Central,2020-03-31,Standard,14.99,Credit Card,27.62203559,Action,Mobile,3.170201762,1067,5,0,,
+516,39,Male,West,2021-07-05,Premium,19.99,Credit Card,4.79415261,Comedy,TV,0.399953608,1092,2,1,53:37.7,Personal reasons
+517,46,Male,West,2023-11-05,Premium,19.99,Credit Card,40.37481066,Drama,Tablet,2.489644885,1014,3,0,,
+518,20,Female,North,2024-01-17,Standard,14.99,Credit Card,62.40014294,Action,Tablet,0.972131792,1064,3,0,,
+519,29,Male,East,2022-12-16,Standard,14.99,Direct Debit,5.402483852,Documentary,Mobile,1.029314838,1053,4,0,,
+520,43,Female,North,2020-10-01,Standard,14.99,Credit Card,42.84600091,Drama,Tablet,3.058391303,1029,4,0,,
+521,33,Female,West,2023-07-17,Standard,14.99,Credit Card,2.040184141,Action,PC,6.582076427,1092,3,0,,
+522,68,Female,East,2020-04-23,Basic,9.99,Credit Card,1.146372122,Sci-Fi,Tablet,0.270851223,1019,3,1,53:37.7,Price increase
+523,54,Female,West,2021-11-15,Standard,14.99,Credit Card,2.767405626,Sci-Fi,PC,1.091628763,1032,1,0,,
+524,39,Female,North,2020-12-15,Standard,14.99,Credit Card,1.189503592,Action,PC,1.311477787,1099,1,1,53:37.7,Found better service
+525,46,Other,North,2021-09-06,Premium,19.99,Direct Debit,37.28818229,Comedy,PC,0.944209484,1085,5,0,,
+526,31,Male,West,2022-08-14,Standard,14.99,Direct Debit,1.217308586,Comedy,Mobile,0.90256513,1076,4,0,,
+527,45,Other,North,2019-12-29,Standard,14.99,PayPal,6.339861231,Drama,TV,0.107368443,1006,4,0,,
+528,22,Male,North,2021-06-21,Standard,14.99,Credit Card,2.190859299,Sci-Fi,Tablet,2.313788021,1007,3,0,,
+529,64,Other,North,2019-10-27,Standard,14.99,Direct Debit,7.00312577,Comedy,Mobile,1.146162544,1027,3,1,53:37.7,Found better service
+530,66,Female,Central,2022-05-05,Standard,14.99,Credit Card,1.898513362,Comedy,Mobile,0.433313777,1044,5,1,53:37.7,Dissatisfied with content
+531,47,Male,West,2020-11-29,Basic,9.99,Credit Card,22.05260203,Sci-Fi,Tablet,3.386003231,1072,4,0,,
+532,63,Male,South,2019-12-31,Standard,14.99,PayPal,2.861866481,Documentary,TV,3.244648655,1088,1,0,,
+533,69,Other,South,2023-06-21,Premium,19.99,Credit Card,38.1900501,Comedy,Mobile,1.332588453,1079,2,0,,
+534,22,Other,South,2021-11-06,Standard,14.99,Credit Card,33.98627329,Action,PC,0.708928097,1073,5,0,,
+535,29,Male,West,2020-11-27,Basic,9.99,PayPal,0.275117301,Drama,Mobile,2.032734497,1010,2,1,53:37.7,Found better service
+536,33,Other,West,2019-09-17,Standard,14.99,Credit Card,45.21473277,Comedy,Tablet,0.679782128,1030,1,1,53:37.7,Found better service
+537,43,Other,North,2023-02-25,Premium,19.99,Credit Card,0.587429321,Comedy,TV,0.53839574,1011,1,1,53:37.7,Dissatisfied with content
+538,43,Other,North,2022-03-18,Basic,9.99,Credit Card,5.479417637,Documentary,PC,2.62248253,1094,2,0,,
+539,65,Female,North,2020-02-01,Standard,14.99,Direct Debit,0.658505487,Action,Mobile,0.082321687,1077,5,1,53:37.7,Personal reasons
+540,38,Female,West,2020-06-10,Premium,19.99,Direct Debit,8.1847489,Drama,Tablet,0.19912907,1050,2,0,,
+541,56,Other,West,2021-05-26,Standard,14.99,Direct Debit,14.42544109,Comedy,Mobile,0.013622637,1043,5,0,,
+542,53,Other,South,2019-05-23,Premium,19.99,Credit Card,31.85602829,Drama,Tablet,0.331975021,1095,5,0,,
+543,50,Female,North,2020-09-08,Standard,14.99,Credit Card,8.249237081,Sci-Fi,PC,0.14297054,1049,3,0,,
+544,47,Female,North,2020-10-10,Standard,14.99,Credit Card,24.44884809,Comedy,PC,10.94646934,1016,4,0,,
+545,54,Male,Central,2022-05-12,Standard,14.99,Credit Card,4.15289701,Comedy,Mobile,0.681631227,1034,4,0,,
+546,40,Male,South,2024-04-06,Basic,9.99,Credit Card,27.77382116,Sci-Fi,TV,0.323316277,1000,1,0,,
+547,27,Female,West,2023-06-05,Basic,9.99,Credit Card,5.383660946,Documentary,Tablet,0.551497143,1028,3,0,,
+548,22,Other,West,2023-11-06,Standard,14.99,Credit Card,3.099064341,Comedy,Mobile,5.501672357,1050,4,1,53:37.7,Dissatisfied with content
+549,53,Other,South,2021-06-25,Basic,9.99,Direct Debit,4.10137897,Drama,Tablet,1.468606058,1063,5,0,,
+550,51,Other,South,2022-11-10,Standard,14.99,Credit Card,4.019402401,Action,PC,0.907687717,1003,5,0,,
+551,69,Other,North,2020-04-28,Premium,19.99,Credit Card,14.38419267,Drama,Tablet,4.133310597,1086,2,1,53:37.7,Found better service
+552,48,Male,West,2021-05-05,Premium,19.99,Credit Card,37.26050172,Documentary,Tablet,1.005021479,1027,2,0,,
+553,27,Female,West,2021-07-08,Standard,14.99,Direct Debit,1.659048738,Action,Tablet,0.815962251,1015,5,0,,
+554,36,Other,West,2020-03-21,Premium,19.99,PayPal,24.54867195,Drama,Mobile,0.464576783,1062,5,1,53:37.7,Personal reasons
+555,49,Male,East,2020-04-18,Standard,14.99,Direct Debit,21.24636668,Drama,TV,0.94897718,1075,2,0,,
+556,18,Other,North,2019-12-30,Standard,14.99,Direct Debit,41.19590823,Sci-Fi,Tablet,0.761596765,1052,4,1,53:37.7,Personal reasons
+557,22,Female,Central,2020-01-01,Basic,9.99,Credit Card,5.598182154,Documentary,Mobile,2.262088899,1084,1,0,,
+558,62,Male,West,2022-07-17,Standard,14.99,Credit Card,11.96073528,Sci-Fi,PC,0.683805483,1016,2,0,,
+559,21,Female,South,2023-11-29,Standard,14.99,Credit Card,52.02720249,Action,TV,1.72171085,1039,4,0,,
+560,33,Female,Central,2021-07-04,Standard,14.99,Credit Card,21.57580794,Sci-Fi,TV,0.136326785,1012,4,0,,
+561,41,Male,West,2021-01-21,Standard,14.99,Credit Card,9.845587239,Documentary,Mobile,0.424627701,1051,4,1,53:37.7,Price increase
+562,33,Male,East,2023-03-22,Basic,9.99,Credit Card,2.817736302,Comedy,Mobile,1.046489079,1057,3,1,53:37.7,Dissatisfied with content
+563,19,Male,West,2021-07-30,Standard,14.99,Direct Debit,6.089377254,Comedy,Tablet,5.527630767,1095,3,1,53:37.7,Found better service
+564,66,Male,Central,2024-03-15,Premium,19.99,Direct Debit,17.40797515,Action,Mobile,0.947226627,1036,4,1,53:37.7,Price increase
+565,45,Male,West,2023-03-26,Standard,14.99,PayPal,25.32887888,Comedy,TV,2.181729484,1078,5,0,,
+566,49,Male,North,2022-01-11,Premium,19.99,PayPal,2.657418201,Sci-Fi,Mobile,0.588976289,1075,3,0,,
+567,44,Male,South,2021-06-26,Premium,19.99,PayPal,18.30568777,Action,Mobile,0.271716369,1060,2,0,,
+568,37,Other,Central,2021-06-18,Premium,19.99,Credit Card,15.98577241,Documentary,Tablet,0.120639612,1078,3,1,53:37.7,Price increase
+569,41,Female,South,2022-06-04,Premium,19.99,Credit Card,14.42909972,Action,Mobile,0.728877145,1033,5,0,,
+570,29,Male,South,2023-08-21,Premium,19.99,PayPal,23.43160428,Action,PC,0.34314553,1069,1,0,,
+571,67,Other,East,2020-12-25,Standard,14.99,PayPal,36.33534282,Drama,Tablet,0.382346309,1016,3,0,,
+572,52,Other,East,2021-05-20,Basic,9.99,Credit Card,7.801375343,Drama,Mobile,2.860570312,1019,4,0,,
+573,50,Other,West,2020-04-03,Standard,14.99,Direct Debit,43.96669809,Action,Mobile,0.031929667,1072,4,0,,
+574,50,Female,Central,2022-03-23,Standard,14.99,Credit Card,3.50215945,Comedy,Tablet,1.632031819,1058,4,0,,
+575,68,Male,South,2020-04-08,Standard,14.99,Credit Card,3.799588949,Drama,Mobile,0.954334874,1068,1,1,53:37.7,Price increase
+576,60,Other,North,2021-07-06,Standard,14.99,PayPal,6.205973235,Documentary,PC,1.412667484,1086,5,0,,
+577,54,Female,North,2019-10-26,Premium,19.99,Credit Card,2.546008215,Sci-Fi,Tablet,1.654867372,1032,2,0,,
+578,29,Female,Central,2020-10-01,Premium,19.99,Credit Card,5.235588552,Drama,PC,0.751912695,1077,5,0,,
+579,20,Female,West,2022-01-08,Premium,19.99,Credit Card,2.250203896,Action,TV,0.699423799,1016,1,0,,
+580,18,Other,South,2019-06-19,Standard,14.99,PayPal,34.49163559,Comedy,TV,2.644025616,1056,4,0,,
+581,50,Male,Central,2023-05-19,Basic,9.99,Credit Card,2.992495223,Sci-Fi,TV,4.100184756,1082,5,0,,
+582,57,Other,Central,2019-10-18,Basic,9.99,PayPal,27.51085199,Drama,Mobile,0.427826644,1096,2,0,,
+583,27,Other,Central,2021-05-04,Standard,14.99,Credit Card,0.981995468,Comedy,Mobile,0.205436376,1000,4,1,53:37.7,Personal reasons
+584,60,Male,Central,2021-12-16,Basic,9.99,Credit Card,59.33136516,Comedy,Mobile,4.561565137,1012,2,0,,
+585,61,Male,South,2019-08-02,Basic,9.99,Direct Debit,24.83765361,Comedy,TV,0.861244208,1026,3,0,,
+586,46,Male,West,2020-01-04,Premium,19.99,Credit Card,0.136395006,Action,TV,1.602879049,1069,2,0,,
+587,30,Female,East,2019-12-05,Standard,14.99,Direct Debit,28.86631217,Documentary,TV,0.891147041,1058,4,0,,
+588,29,Male,Central,2020-05-03,Standard,14.99,Credit Card,14.43430461,Comedy,Mobile,0.268897538,1005,3,1,53:37.7,Found better service
+589,48,Other,West,2021-08-20,Basic,9.99,Direct Debit,30.22492597,Sci-Fi,TV,1.779938624,1096,4,0,,
+590,63,Male,West,2020-11-19,Standard,14.99,Credit Card,14.78368872,Drama,Tablet,1.489474098,1093,4,0,,
+591,19,Other,West,2021-07-24,Basic,9.99,Credit Card,20.49004268,Sci-Fi,Mobile,0.453785038,1098,3,0,,
+592,68,Female,North,2021-02-14,Premium,19.99,Credit Card,30.86660515,Action,Tablet,1.202482102,1022,2,0,,
+593,67,Other,East,2019-05-24,Standard,14.99,Credit Card,10.38750989,Action,Mobile,3.188581465,1009,1,0,,
+594,52,Other,Central,2021-04-13,Standard,14.99,PayPal,0.05423647,Sci-Fi,Tablet,1.785275871,1050,1,1,53:37.7,Found better service
+595,40,Male,Central,2019-07-23,Standard,14.99,Credit Card,37.9352671,Documentary,Mobile,0.203882352,1018,1,0,,
+596,34,Male,North,2023-07-18,Basic,9.99,Credit Card,9.589458037,Action,Tablet,1.588241321,1050,1,0,,
+597,43,Other,North,2023-10-11,Standard,14.99,Credit Card,13.70527577,Action,PC,2.426284762,1091,5,0,,
+598,25,Male,North,2020-08-09,Standard,14.99,Credit Card,0.155939192,Sci-Fi,TV,3.147209378,1086,1,0,,
+599,46,Female,West,2021-04-21,Standard,14.99,PayPal,13.54909941,Action,PC,1.98374038,1067,3,0,,
+600,43,Female,Central,2022-02-09,Basic,9.99,Credit Card,86.08265624,Documentary,Tablet,0.331302164,1083,1,0,,
+601,27,Male,South,2019-06-03,Standard,14.99,PayPal,6.522018604,Documentary,TV,2.476944011,1082,4,0,,
+602,43,Female,East,2023-04-13,Standard,14.99,PayPal,10.06436832,Documentary,TV,2.262323726,1041,1,0,,
+603,51,Male,Central,2023-06-17,Premium,19.99,Direct Debit,23.2431858,Drama,Mobile,0.049460337,1090,2,1,53:37.7,Price increase
+604,68,Other,West,2021-10-10,Standard,14.99,Credit Card,33.72569529,Documentary,Tablet,1.061198573,1056,3,0,,
+605,58,Other,East,2021-11-30,Standard,14.99,PayPal,10.80480115,Documentary,Mobile,0.809781287,1097,3,1,53:37.7,Price increase
+606,24,Female,East,2021-02-11,Standard,14.99,Direct Debit,7.411677971,Drama,Mobile,2.213765173,1067,5,0,,
+607,21,Male,East,2022-07-09,Standard,14.99,PayPal,55.55630312,Comedy,PC,0.487039007,1037,4,0,,
+608,70,Male,South,2019-10-06,Standard,14.99,Credit Card,22.61103739,Action,TV,1.78745405,1061,3,1,53:37.7,Found better service
+609,67,Female,East,2022-08-13,Standard,14.99,PayPal,2.53443671,Documentary,Mobile,4.888434688,1006,2,1,53:37.7,Price increase
+610,62,Other,West,2022-10-08,Standard,14.99,PayPal,1.428370752,Action,TV,3.197019409,1070,1,0,,
+611,28,Female,Central,2019-11-07,Premium,19.99,PayPal,13.21553023,Sci-Fi,TV,5.088236814,1049,3,0,,
+612,46,Other,West,2019-09-28,Standard,14.99,Credit Card,4.971536705,Action,TV,7.679959828,1051,2,0,,
+613,53,Male,West,2023-12-22,Premium,19.99,Credit Card,5.860184823,Drama,Mobile,0.021454922,1025,1,0,,
+614,42,Other,North,2019-09-13,Standard,14.99,Direct Debit,42.02428575,Action,TV,1.949648115,1025,5,0,,
+615,38,Female,East,2023-03-06,Premium,19.99,Credit Card,1.876677936,Action,Mobile,1.064913796,1018,3,0,,
+616,53,Male,North,2020-04-22,Premium,19.99,PayPal,25.13089026,Action,Tablet,3.930148083,1008,3,1,53:37.7,Price increase
+617,27,Female,South,2022-09-03,Standard,14.99,Credit Card,6.325534019,Comedy,Mobile,0.580209214,1060,2,0,,
+618,54,Female,West,2021-11-08,Premium,19.99,Credit Card,28.56969762,Comedy,Mobile,7.929739128,1019,4,0,,
+619,26,Other,Central,2022-02-08,Basic,9.99,Credit Card,25.63230123,Sci-Fi,PC,1.90232328,1049,5,0,,
+620,41,Female,North,2023-12-18,Premium,19.99,Credit Card,0.148387139,Drama,Tablet,3.155272015,1079,4,0,,
+621,52,Other,East,2021-04-26,Standard,14.99,Direct Debit,14.23173959,Action,Mobile,0.178973355,1080,3,1,53:37.7,Dissatisfied with content
+622,66,Male,Central,2023-11-12,Basic,9.99,Direct Debit,3.000638062,Action,Mobile,0.405353575,1021,4,0,,
+623,52,Other,South,2023-10-22,Standard,14.99,PayPal,40.23222348,Action,PC,2.840974032,1012,1,0,,
+624,65,Male,East,2022-08-22,Premium,19.99,Credit Card,41.04989894,Action,Mobile,0.044463656,1011,5,0,,
+625,53,Other,West,2019-12-28,Basic,9.99,PayPal,10.83758358,Comedy,TV,3.395205209,1009,4,1,53:37.7,Dissatisfied with content
+626,35,Female,West,2022-06-16,Standard,14.99,PayPal,11.75397564,Sci-Fi,Mobile,0.028094441,1064,1,1,53:37.7,Dissatisfied with content
+627,66,Other,North,2020-05-23,Standard,14.99,Credit Card,7.22751779,Documentary,Mobile,2.140742723,1095,2,1,53:37.7,Personal reasons
+628,56,Other,South,2023-04-02,Premium,19.99,Credit Card,25.21836357,Drama,Mobile,0.908556394,1029,4,0,,
+629,49,Male,West,2019-08-20,Standard,14.99,PayPal,8.883953335,Action,Tablet,1.89089772,1007,5,0,,
+630,41,Female,East,2023-01-22,Basic,9.99,PayPal,6.233826009,Sci-Fi,Mobile,2.381661791,1020,1,0,,
+631,40,Other,North,2023-10-02,Basic,9.99,Direct Debit,11.32081476,Documentary,Mobile,0.838545652,1021,4,0,,
+632,49,Female,West,2021-10-21,Standard,14.99,Credit Card,1.918933051,Sci-Fi,TV,0.228494098,1017,2,0,,
+633,54,Other,North,2019-07-20,Standard,14.99,PayPal,27.45597316,Comedy,PC,0.144379956,1065,4,0,,
+634,29,Other,West,2022-08-14,Premium,19.99,Credit Card,0.25352817,Documentary,Mobile,1.778012827,1047,1,0,,
+635,66,Female,South,2021-09-29,Basic,9.99,Credit Card,20.68376019,Sci-Fi,Tablet,1.470670857,1043,4,0,,
+636,30,Other,Central,2021-11-13,Standard,14.99,Credit Card,4.039007599,Comedy,TV,2.711150206,1008,5,0,,
+637,40,Female,South,2023-11-14,Basic,9.99,Credit Card,5.289835722,Sci-Fi,Mobile,1.425620516,1066,3,1,53:37.7,Price increase
+638,42,Other,South,2024-04-14,Basic,9.99,Credit Card,20.19181859,Sci-Fi,Mobile,1.097905942,1053,1,0,,
+639,52,Male,North,2019-07-24,Standard,14.99,Credit Card,99.07602504,Documentary,PC,1.015285317,1025,1,0,,
+640,58,Female,South,2023-09-15,Standard,14.99,PayPal,30.07612269,Comedy,PC,0.053605826,1084,1,0,,
+641,47,Other,Central,2021-07-05,Standard,14.99,PayPal,5.119524667,Action,Tablet,0.817612974,1093,1,0,,
+642,34,Other,Central,2021-04-08,Premium,19.99,Credit Card,3.872295841,Drama,Mobile,7.461083397,1091,4,0,,
+643,66,Male,South,2021-10-21,Standard,14.99,Direct Debit,40.23309657,Documentary,Mobile,4.13590481,1099,5,0,,
+644,37,Female,East,2020-01-29,Premium,19.99,Credit Card,11.74635762,Comedy,PC,0.799099478,1025,2,1,53:37.7,Price increase
+645,65,Other,West,2022-12-01,Premium,19.99,Credit Card,2.948035499,Sci-Fi,Mobile,1.772470926,1033,5,1,53:37.7,Found better service
+646,42,Male,Central,2019-05-25,Standard,14.99,PayPal,39.64069643,Comedy,Tablet,3.758517508,1007,1,0,,
+647,39,Other,East,2020-04-22,Premium,19.99,Credit Card,33.86643131,Drama,Tablet,1.164193379,1009,4,0,,
+648,30,Female,South,2023-03-03,Standard,14.99,Credit Card,82.58662716,Drama,Mobile,0.036242126,1047,4,0,,
+649,36,Other,East,2022-03-06,Basic,9.99,Credit Card,48.10203462,Action,TV,0.154864902,1054,1,1,53:37.7,Price increase
+650,66,Other,West,2019-11-20,Standard,14.99,Credit Card,38.18254754,Action,TV,1.428303363,1053,4,0,,
+651,53,Other,North,2019-08-05,Basic,9.99,Direct Debit,1.080137305,Drama,PC,6.976085771,1077,1,0,,
+652,29,Other,West,2022-11-21,Standard,14.99,Credit Card,2.20557111,Documentary,Mobile,2.363180625,1039,5,0,,
+653,58,Male,South,2021-09-01,Standard,14.99,Credit Card,16.83216395,Documentary,Mobile,0.147112661,1014,3,0,,
+654,36,Male,West,2019-07-26,Basic,9.99,Credit Card,15.1634976,Sci-Fi,Tablet,0.4198646,1080,4,0,,
+655,29,Female,North,2019-10-05,Basic,9.99,PayPal,12.2484282,Action,Mobile,2.950890755,1017,1,0,,
+656,26,Male,East,2020-09-28,Premium,19.99,Credit Card,10.10977532,Sci-Fi,TV,3.683241389,1095,1,0,,
+657,24,Male,East,2022-02-17,Standard,14.99,PayPal,11.28489668,Action,Mobile,1.923070954,1022,4,0,,
+658,45,Female,West,2021-11-06,Basic,9.99,Credit Card,16.84677381,Drama,Tablet,2.068027868,1061,2,0,,
+659,31,Male,North,2021-04-08,Standard,14.99,Credit Card,0.041573531,Documentary,Mobile,0.057493412,1045,1,1,53:37.7,Found better service
+660,48,Male,East,2020-03-03,Standard,14.99,Credit Card,6.041267093,Documentary,PC,3.526696937,1086,4,0,,
+661,69,Female,East,2020-09-17,Standard,14.99,Credit Card,14.60783334,Drama,Mobile,3.104935999,1098,1,0,,
+662,36,Female,East,2021-12-18,Premium,19.99,Credit Card,25.61823602,Sci-Fi,Tablet,0.599604166,1038,2,0,,
+663,64,Female,West,2022-11-14,Standard,14.99,Credit Card,3.827004474,Sci-Fi,Mobile,2.466643401,1014,3,0,,
+664,33,Other,West,2021-07-18,Standard,14.99,Direct Debit,15.83201757,Comedy,TV,0.483772727,1052,2,0,,
+665,70,Other,Central,2020-01-12,Premium,19.99,Credit Card,25.06744095,Action,Mobile,0.082331943,1087,5,0,,
+666,22,Female,South,2020-07-28,Premium,19.99,PayPal,11.76233007,Sci-Fi,TV,0.449130479,1063,4,0,,
+667,52,Female,Central,2020-09-18,Basic,9.99,Credit Card,0.549091707,Drama,TV,0.393560467,1062,2,0,,
+668,29,Female,East,2020-03-09,Basic,9.99,Credit Card,11.93014529,Sci-Fi,Mobile,0.824218252,1091,3,1,53:37.7,Found better service
+669,42,Other,North,2019-09-29,Basic,9.99,Credit Card,7.032181308,Documentary,PC,1.084114923,1079,1,0,,
+670,69,Other,North,2019-06-11,Standard,14.99,Direct Debit,53.08533838,Action,Mobile,1.420744941,1015,4,1,53:37.7,Price increase
+671,38,Male,South,2023-09-23,Standard,14.99,Credit Card,2.661792905,Comedy,TV,1.295406649,1069,2,0,,
+672,53,Male,West,2020-11-24,Standard,14.99,Credit Card,21.13842847,Action,Tablet,0.63127058,1065,3,0,,
+673,70,Female,West,2021-12-16,Premium,19.99,Credit Card,1.083206246,Documentary,Mobile,0.059209184,1012,2,0,,
+674,40,Other,West,2021-11-27,Standard,14.99,Credit Card,11.81796578,Documentary,Mobile,1.858253637,1046,5,0,,
+675,33,Other,East,2020-04-19,Basic,9.99,Credit Card,16.1478067,Documentary,Mobile,1.007517406,1008,4,0,,
+676,56,Other,East,2021-07-05,Standard,14.99,Credit Card,7.075153532,Documentary,TV,0.709559646,1062,1,0,,
+677,62,Female,North,2023-10-10,Standard,14.99,Credit Card,12.14216549,Drama,Mobile,4.033925924,1033,3,1,53:37.7,Price increase
+678,70,Male,South,2022-04-27,Standard,14.99,Credit Card,3.571861394,Comedy,PC,2.746703422,1080,2,0,,
+679,59,Female,East,2023-04-06,Standard,14.99,PayPal,7.251671582,Documentary,Tablet,3.90055703,1090,4,0,,
+680,56,Male,North,2021-04-09,Premium,19.99,Credit Card,19.40999308,Documentary,TV,1.366325561,1028,2,0,,
+681,31,Male,South,2024-04-06,Standard,14.99,Credit Card,7.184995286,Sci-Fi,Mobile,0.280666091,1036,4,0,,
+682,48,Female,East,2021-11-21,Standard,14.99,Credit Card,46.00038344,Comedy,Tablet,2.382912503,1042,5,0,,
+683,22,Male,West,2020-02-06,Standard,14.99,PayPal,19.79911991,Action,Tablet,0.461529488,1085,2,0,,
+684,52,Male,Central,2022-07-28,Standard,14.99,Credit Card,11.54817867,Comedy,PC,1.164033495,1063,5,0,,
+685,40,Other,Central,2023-06-13,Basic,9.99,Credit Card,0.790559467,Comedy,Mobile,0.134419187,1023,3,0,,
+686,46,Male,West,2021-02-02,Standard,14.99,Credit Card,13.84488517,Comedy,Mobile,3.489466319,1070,5,0,,
+687,60,Female,East,2020-04-15,Basic,9.99,Credit Card,28.94436113,Documentary,Mobile,0.269213978,1033,4,0,,
+688,28,Female,West,2021-09-28,Premium,19.99,Credit Card,6.172874089,Documentary,PC,4.668100067,1047,3,0,,
+689,35,Male,West,2021-04-09,Basic,9.99,PayPal,32.87785127,Drama,Mobile,3.993594875,1011,2,0,,
+690,64,Other,North,2022-08-25,Standard,14.99,Direct Debit,5.801880004,Action,Tablet,1.249417913,1022,2,0,,
+691,29,Other,East,2021-01-26,Standard,14.99,PayPal,34.71662687,Sci-Fi,Mobile,2.728034336,1078,4,1,53:37.7,Price increase
+692,26,Male,Central,2019-06-30,Premium,19.99,Credit Card,1.782490525,Comedy,TV,1.932249519,1096,1,0,,
+693,27,Male,South,2023-11-27,Basic,9.99,Credit Card,40.22574763,Action,TV,3.24987119,1012,1,1,53:37.7,Personal reasons
+694,61,Female,East,2019-07-21,Basic,9.99,Credit Card,13.83042809,Action,Tablet,1.130581573,1086,2,0,,
+695,34,Male,East,2022-03-23,Basic,9.99,Credit Card,7.034816723,Drama,Mobile,3.081769461,1095,4,1,53:37.7,Personal reasons
+696,55,Other,North,2020-10-28,Basic,9.99,Credit Card,6.160777477,Sci-Fi,Mobile,1.241492364,1044,1,1,53:37.7,Personal reasons
+697,24,Male,South,2023-08-07,Basic,9.99,PayPal,11.313049,Comedy,Mobile,5.659276272,1098,5,0,,
+698,63,Female,South,2021-07-15,Standard,14.99,Credit Card,139.170408,Sci-Fi,Mobile,1.332512415,1064,2,0,,
+699,30,Female,North,2021-06-20,Basic,9.99,Credit Card,4.977623652,Drama,PC,1.24209689,1046,5,0,,
+700,57,Female,North,2023-06-16,Basic,9.99,Credit Card,2.178819443,Documentary,Tablet,3.074903093,1057,4,0,,
+701,59,Female,Central,2021-10-10,Premium,19.99,Credit Card,17.59123012,Action,TV,3.447204041,1004,5,0,,
+702,26,Female,South,2021-02-19,Standard,14.99,Credit Card,13.40981441,Comedy,Mobile,1.617067195,1076,1,0,,
+703,67,Male,East,2022-11-14,Standard,14.99,Direct Debit,14.85499688,Documentary,PC,0.3964088,1004,1,1,53:37.7,Price increase
+704,44,Male,South,2023-01-05,Standard,14.99,Credit Card,21.98837733,Drama,Tablet,1.26131488,1059,3,0,,
+705,19,Male,Central,2022-02-05,Premium,19.99,PayPal,6.216122893,Sci-Fi,Tablet,6.888575325,1095,2,1,53:37.7,Price increase
+706,22,Male,South,2020-05-06,Basic,9.99,PayPal,48.30723758,Action,Mobile,2.796622091,1020,4,0,,
+707,46,Female,East,2021-05-14,Premium,19.99,PayPal,11.44239507,Comedy,Tablet,3.333737944,1023,2,0,,
+708,54,Other,Central,2023-05-17,Standard,14.99,Credit Card,2.764245363,Documentary,Tablet,0.066752687,1017,5,0,,
+709,55,Male,Central,2020-02-01,Basic,9.99,Credit Card,27.11908674,Documentary,PC,1.261695313,1020,4,0,,
+710,36,Other,North,2020-11-08,Premium,19.99,Credit Card,20.60623688,Action,TV,2.080429044,1053,4,0,,
+711,25,Male,Central,2023-09-15,Basic,9.99,PayPal,7.588445783,Sci-Fi,Mobile,3.544298234,1009,1,1,53:37.7,Personal reasons
+712,65,Male,East,2023-09-23,Basic,9.99,Credit Card,19.43177353,Drama,Mobile,0.101058023,1023,5,0,,
+713,62,Other,East,2020-02-09,Premium,19.99,Direct Debit,4.965687919,Sci-Fi,Tablet,3.827025709,1084,1,0,,
+714,18,Female,North,2020-09-08,Standard,14.99,Credit Card,11.76995529,Sci-Fi,Tablet,1.589921042,1088,1,1,53:37.7,Personal reasons
+715,39,Male,North,2024-03-19,Standard,14.99,Credit Card,45.93455008,Sci-Fi,Mobile,0.439583277,1059,3,0,,
+716,69,Male,West,2024-01-10,Basic,9.99,Credit Card,2.86665356,Action,PC,0.763268318,1056,1,1,53:37.7,Found better service
+717,34,Male,East,2024-03-14,Standard,14.99,Credit Card,9.77790556,Action,TV,0.662375195,1022,2,1,53:37.7,Dissatisfied with content
+718,24,Other,East,2019-10-07,Standard,14.99,Credit Card,34.42330917,Drama,TV,1.513703978,1021,4,0,,
+719,42,Female,West,2022-10-20,Standard,14.99,PayPal,69.79460519,Sci-Fi,Mobile,0.106138541,1067,1,0,,
+720,62,Other,West,2021-06-04,Standard,14.99,PayPal,12.10002062,Action,TV,0.345224471,1033,2,0,,
+721,21,Other,North,2024-03-15,Basic,9.99,Direct Debit,14.14490669,Drama,PC,3.350013057,1069,5,0,,
+722,53,Female,West,2019-12-10,Basic,9.99,Direct Debit,16.98067888,Drama,Tablet,0.284519297,1027,4,0,,
+723,23,Other,North,2022-10-27,Premium,19.99,Direct Debit,53.86760909,Sci-Fi,Tablet,0.531570519,1094,5,0,,
+724,48,Female,West,2020-02-09,Standard,14.99,Credit Card,39.06771115,Comedy,TV,1.20796846,1098,2,1,53:37.7,Price increase
+725,36,Male,West,2019-09-10,Premium,19.99,PayPal,3.741081742,Sci-Fi,Tablet,1.455977885,1038,5,0,,
+726,61,Female,Central,2021-04-07,Standard,14.99,Credit Card,11.48091159,Comedy,Mobile,2.884548649,1041,5,1,53:37.7,Found better service
+727,56,Male,North,2019-05-18,Standard,14.99,Credit Card,12.47243834,Drama,Tablet,1.185997183,1022,5,0,,
+728,44,Other,North,2019-06-09,Basic,9.99,PayPal,31.12705509,Action,Tablet,3.120006588,1069,1,0,,
+729,27,Other,South,2021-12-21,Standard,14.99,Credit Card,18.47098435,Documentary,Mobile,1.926483289,1079,1,1,53:37.7,Price increase
+730,43,Male,South,2023-04-05,Basic,9.99,Credit Card,21.23907761,Drama,TV,0.240045498,1001,1,0,,
+731,36,Other,South,2021-03-02,Standard,14.99,Credit Card,126.3983464,Action,PC,0.339991122,1023,4,0,,
+732,56,Female,Central,2022-07-02,Standard,14.99,Credit Card,1.558366923,Drama,PC,1.149071111,1016,2,0,,
+733,20,Male,South,2023-04-16,Premium,19.99,Direct Debit,5.046551432,Sci-Fi,Mobile,1.011309343,1064,1,0,,
+734,62,Other,South,2024-01-17,Standard,14.99,Credit Card,10.48145756,Comedy,PC,2.721598441,1069,5,0,,
+735,30,Male,West,2022-09-01,Basic,9.99,Credit Card,8.547540702,Drama,Mobile,1.738514409,1068,5,1,53:37.7,Personal reasons
+736,67,Female,East,2024-04-20,Basic,9.99,Credit Card,0.437665258,Action,Mobile,0.982480945,1059,5,0,,
+737,45,Female,West,2019-05-30,Basic,9.99,Credit Card,1.925320072,Sci-Fi,Tablet,0.374492004,1049,5,0,,
+738,37,Other,North,2021-01-17,Standard,14.99,Direct Debit,22.8483553,Documentary,Tablet,0.514531036,1092,3,0,,
+739,45,Female,East,2021-12-05,Standard,14.99,Credit Card,42.29299701,Sci-Fi,Tablet,1.713691345,1011,4,0,,
+740,25,Male,North,2020-01-29,Premium,19.99,Credit Card,14.44027731,Comedy,Mobile,1.101347591,1046,2,1,53:37.7,Price increase
+741,58,Female,North,2022-11-13,Basic,9.99,PayPal,15.49543622,Sci-Fi,Tablet,1.446913866,1066,2,1,53:37.7,Found better service
+742,56,Male,Central,2023-11-18,Standard,14.99,Direct Debit,5.889929633,Documentary,Mobile,0.374292197,1064,1,0,,
+743,18,Male,North,2023-03-25,Standard,14.99,PayPal,29.20970268,Action,TV,2.174788409,1026,3,0,,
+744,20,Female,East,2022-04-28,Standard,14.99,Direct Debit,27.86997198,Drama,Tablet,3.828379575,1047,2,0,,
+745,30,Other,East,2020-07-05,Standard,14.99,Credit Card,17.75239838,Comedy,PC,0.596649024,1087,4,0,,
+746,45,Female,South,2021-01-11,Standard,14.99,Credit Card,4.782010957,Documentary,Mobile,1.35263608,1061,5,0,,
+747,66,Male,Central,2021-12-31,Standard,14.99,Credit Card,2.04105802,Comedy,Mobile,7.420396509,1043,1,0,,
+748,42,Male,North,2023-09-20,Basic,9.99,Direct Debit,1.327894475,Sci-Fi,TV,0.810655457,1018,4,1,53:37.7,Dissatisfied with content
+749,50,Female,West,2024-01-09,Standard,14.99,Credit Card,17.96391214,Comedy,Mobile,1.807965301,1058,2,0,,
+750,55,Other,Central,2021-02-12,Basic,9.99,Credit Card,34.86342298,Documentary,Tablet,0.189051516,1007,3,1,53:37.7,Dissatisfied with content
+751,70,Other,East,2022-03-15,Standard,14.99,Credit Card,39.08515835,Drama,PC,1.862884896,1054,1,0,,
+752,23,Male,Central,2019-08-31,Standard,14.99,Credit Card,12.45832562,Drama,Mobile,0.187812233,1046,2,0,,
+753,61,Male,North,2023-01-28,Standard,14.99,Credit Card,30.67467352,Comedy,TV,6.399884176,1001,1,1,53:37.7,Found better service
+754,62,Other,East,2024-01-24,Premium,19.99,Direct Debit,58.7041094,Action,Tablet,2.515187802,1093,2,0,,
+755,49,Female,South,2019-11-22,Premium,19.99,Credit Card,6.436365791,Comedy,Mobile,3.103846012,1093,5,1,53:37.7,Dissatisfied with content
+756,62,Male,West,2022-06-09,Premium,19.99,PayPal,10.14863932,Sci-Fi,Mobile,2.435496914,1038,3,0,,
+757,64,Male,Central,2019-05-15,Standard,14.99,PayPal,53.61229807,Drama,Mobile,1.7818749,1044,5,0,,
+758,38,Other,South,2020-03-03,Standard,14.99,Credit Card,8.256773543,Drama,TV,1.195356867,1031,2,1,53:37.7,Personal reasons
+759,33,Female,West,2019-08-25,Standard,14.99,Credit Card,49.03941063,Drama,PC,3.909122239,1064,4,0,,
+760,38,Other,North,2019-09-05,Premium,19.99,Credit Card,79.31360526,Action,Mobile,6.285481525,1037,5,1,53:37.7,Price increase
+761,28,Female,East,2019-08-19,Standard,14.99,Credit Card,21.68299131,Action,Mobile,1.382442764,1076,4,1,53:37.7,Dissatisfied with content
+762,54,Female,East,2023-11-14,Premium,19.99,PayPal,33.9533959,Documentary,PC,5.362866662,1010,2,0,,
+763,53,Female,Central,2019-07-15,Premium,19.99,Credit Card,27.68956536,Comedy,Tablet,1.750935443,1009,3,0,,
+764,52,Male,West,2022-04-23,Standard,14.99,Credit Card,24.04843067,Comedy,Tablet,1.546044614,1058,4,0,,
+765,36,Other,South,2019-09-13,Basic,9.99,Credit Card,7.332516459,Sci-Fi,Mobile,1.212041641,1089,2,1,53:37.7,Dissatisfied with content
+766,37,Other,North,2020-05-23,Basic,9.99,Direct Debit,1.175780831,Drama,Mobile,0.469642344,1054,4,1,53:37.7,Found better service
+767,35,Female,North,2021-03-06,Premium,19.99,Direct Debit,8.403000082,Action,PC,0.007453192,1019,5,0,,
+768,64,Male,South,2020-06-22,Basic,9.99,Direct Debit,21.98841142,Sci-Fi,TV,0.552841379,1080,2,0,,
+769,58,Male,South,2019-07-13,Premium,19.99,PayPal,2.16349384,Sci-Fi,Mobile,1.425570183,1016,5,0,,
+770,66,Other,Central,2020-03-04,Standard,14.99,Credit Card,0.23979143,Action,Tablet,0.95594242,1067,1,0,,
+771,31,Male,East,2022-07-12,Standard,14.99,PayPal,3.009304948,Comedy,Tablet,1.190173311,1004,2,1,53:37.7,Price increase
+772,32,Male,East,2024-04-04,Premium,19.99,Credit Card,25.15703273,Drama,Tablet,7.889941703,1059,4,0,,
+773,48,Female,North,2024-03-13,Standard,14.99,PayPal,72.08613551,Comedy,Mobile,0.862404071,1022,1,1,53:37.7,Personal reasons
+774,18,Male,Central,2022-12-05,Standard,14.99,PayPal,81.56710111,Sci-Fi,TV,1.203627757,1045,5,0,,
+775,70,Female,West,2022-04-12,Standard,14.99,Credit Card,13.62354807,Drama,Tablet,0.286622235,1051,5,0,,
+776,20,Other,North,2019-10-19,Standard,14.99,PayPal,40.70501798,Documentary,Tablet,0.098291693,1009,4,0,,
+777,33,Male,West,2024-04-25,Standard,14.99,Direct Debit,26.69883201,Sci-Fi,Mobile,2.9869532,1045,1,0,,
+778,40,Other,East,2020-02-06,Basic,9.99,Credit Card,13.90459643,Comedy,Mobile,1.691120226,1027,3,1,53:37.7,Found better service
+779,28,Other,North,2022-05-18,Premium,19.99,Direct Debit,17.0082122,Comedy,Mobile,2.860114736,1096,4,0,,
+780,29,Male,East,2022-10-30,Premium,19.99,Credit Card,2.952076567,Comedy,PC,0.324715059,1042,5,0,,
+781,27,Male,East,2023-04-30,Standard,14.99,Credit Card,55.5035087,Action,Mobile,1.696464192,1025,2,0,,
+782,49,Other,North,2023-01-09,Standard,14.99,Credit Card,8.6751242,Sci-Fi,PC,0.585101073,1054,1,0,,
+783,33,Male,Central,2021-09-07,Standard,14.99,Credit Card,11.81720089,Drama,Mobile,0.517701612,1047,3,0,,
+784,25,Female,Central,2019-10-10,Standard,14.99,Direct Debit,22.27412651,Comedy,Tablet,0.023185907,1028,2,0,,
+785,55,Female,West,2020-12-02,Premium,19.99,Direct Debit,8.1263836,Comedy,Tablet,0.279307561,1026,1,0,,
+786,29,Male,East,2022-08-23,Basic,9.99,PayPal,5.867542799,Action,Mobile,0.740007071,1017,4,0,,
+787,41,Other,East,2023-07-05,Basic,9.99,Credit Card,19.94185002,Drama,Mobile,0.248585568,1059,4,1,53:37.7,Found better service
+788,45,Male,West,2023-02-05,Standard,14.99,Direct Debit,0.506029645,Sci-Fi,Mobile,8.517274657,1073,1,0,,
+789,70,Male,East,2023-11-29,Standard,14.99,Credit Card,25.51117441,Documentary,PC,0.738167947,1068,3,0,,
+790,25,Other,North,2023-06-11,Standard,14.99,Direct Debit,14.43189485,Action,PC,0.279268978,1073,1,0,,
+791,45,Other,East,2022-03-23,Standard,14.99,Credit Card,18.61559031,Sci-Fi,Mobile,0.4439942,1020,2,0,,
+792,53,Female,Central,2023-09-25,Standard,14.99,Credit Card,19.98693479,Documentary,Tablet,1.772023739,1023,2,1,53:37.7,Price increase
+793,43,Other,East,2021-08-28,Standard,14.99,PayPal,14.9753187,Comedy,Mobile,0.132372607,1002,4,0,,
+794,25,Female,North,2022-05-09,Basic,9.99,Credit Card,17.47103284,Comedy,Mobile,3.967304846,1094,1,0,,
+795,67,Other,West,2020-03-01,Standard,14.99,Credit Card,23.02686079,Drama,Mobile,6.514177412,1061,4,0,,
+796,45,Male,South,2020-04-18,Basic,9.99,Credit Card,27.97696442,Documentary,TV,0.566709353,1001,3,0,,
+797,45,Female,South,2021-06-03,Basic,9.99,Credit Card,25.99883939,Comedy,Mobile,1.196020463,1065,2,0,,
+798,54,Female,North,2020-12-16,Standard,14.99,Credit Card,40.74549694,Comedy,Mobile,0.044766188,1041,5,0,,
+799,58,Female,South,2021-05-20,Basic,9.99,Credit Card,4.200682955,Drama,Mobile,2.047252085,1033,5,0,,
+800,53,Male,West,2022-08-02,Basic,9.99,Credit Card,10.25481478,Sci-Fi,Mobile,1.068618633,1041,1,0,,
+801,44,Male,East,2022-08-30,Basic,9.99,Credit Card,59.05194846,Comedy,PC,0.629581677,1019,1,1,53:37.7,Found better service
+802,34,Male,South,2023-10-25,Premium,19.99,PayPal,10.10318663,Action,Mobile,0.463453339,1096,5,0,,
+803,26,Male,Central,2023-01-04,Premium,19.99,Credit Card,2.667658402,Action,Mobile,2.122766409,1067,1,1,53:37.7,Dissatisfied with content
+804,50,Male,Central,2023-12-02,Standard,14.99,Direct Debit,14.90756045,Sci-Fi,PC,1.076451987,1044,2,0,,
+805,70,Female,Central,2022-09-05,Premium,19.99,Direct Debit,2.319240776,Documentary,Mobile,0.396071048,1074,3,1,53:37.7,Personal reasons
+806,37,Male,South,2020-12-04,Standard,14.99,Credit Card,4.5343295,Drama,PC,2.336626345,1041,3,0,,
+807,30,Female,East,2023-03-22,Standard,14.99,PayPal,127.7644325,Action,Tablet,1.665150859,1046,4,0,,
+808,45,Male,Central,2020-12-25,Basic,9.99,Direct Debit,15.58990886,Action,Mobile,3.913344475,1004,2,0,,
+809,65,Other,West,2021-04-30,Standard,14.99,Direct Debit,6.683133286,Sci-Fi,PC,0.249938361,1088,1,0,,
+810,46,Female,North,2021-03-16,Standard,14.99,Credit Card,105.0858357,Documentary,Mobile,3.080445083,1048,1,0,,
+811,30,Other,North,2023-01-22,Standard,14.99,Credit Card,67.95940303,Documentary,Tablet,2.238753492,1036,4,0,,
+812,63,Female,East,2020-12-12,Standard,14.99,PayPal,11.62278166,Sci-Fi,Tablet,0.244359984,1033,4,0,,
+813,52,Other,Central,2022-12-08,Standard,14.99,PayPal,6.032999656,Action,Mobile,2.373711808,1072,1,0,,
+814,23,Male,East,2019-11-24,Standard,14.99,PayPal,36.45257787,Drama,PC,1.165170671,1069,1,0,,
+815,35,Male,East,2021-04-05,Premium,19.99,Credit Card,25.14892856,Action,TV,5.800291011,1017,2,1,53:37.7,Price increase
+816,68,Male,North,2023-04-10,Standard,14.99,Direct Debit,23.22729995,Documentary,TV,0.305396621,1077,4,0,,
+817,22,Female,West,2022-08-15,Standard,14.99,Direct Debit,44.71980026,Action,PC,2.059105827,1018,2,0,,
+818,64,Other,Central,2019-10-12,Standard,14.99,Credit Card,23.38609067,Drama,Tablet,0.962469066,1077,1,0,,
+819,42,Male,South,2022-09-07,Standard,14.99,Credit Card,6.675858988,Comedy,Mobile,6.284508877,1039,5,0,,
+820,19,Other,West,2021-08-31,Standard,14.99,Credit Card,23.67446187,Action,Mobile,0.800880195,1016,5,0,,
+821,27,Other,Central,2023-02-28,Basic,9.99,Direct Debit,7.300292777,Sci-Fi,Tablet,6.550146962,1059,1,1,53:37.7,Personal reasons
+822,47,Male,South,2020-08-21,Standard,14.99,PayPal,28.47900909,Comedy,Mobile,4.635110195,1098,4,0,,
+823,67,Male,East,2021-02-25,Basic,9.99,PayPal,19.33841411,Sci-Fi,TV,0.630471725,1092,5,0,,
+824,62,Other,South,2019-05-10,Standard,14.99,Credit Card,1.611440581,Sci-Fi,Mobile,3.25461095,1041,4,0,,
+825,22,Male,West,2022-11-14,Standard,14.99,Credit Card,14.38306296,Sci-Fi,Mobile,10.8542123,1080,5,0,,
+826,50,Male,East,2023-08-03,Standard,14.99,Credit Card,8.410589233,Action,Mobile,0.582478121,1071,4,1,53:37.7,Personal reasons
+827,18,Male,West,2023-09-17,Basic,9.99,Credit Card,7.966929101,Documentary,TV,1.148159875,1064,5,0,,
+828,35,Female,West,2020-02-05,Standard,14.99,PayPal,18.43894914,Comedy,PC,1.468691561,1052,4,0,,
+829,49,Other,South,2019-12-25,Basic,9.99,Direct Debit,7.78174396,Drama,PC,0.698919602,1099,2,0,,
+830,64,Other,Central,2021-04-19,Premium,19.99,Direct Debit,30.00214311,Documentary,Mobile,0.030765093,1006,4,0,,
+831,66,Female,East,2020-03-13,Premium,19.99,Direct Debit,1.468441232,Action,TV,0.497254141,1004,2,0,,
+832,28,Other,North,2020-12-31,Premium,19.99,Credit Card,21.59904465,Sci-Fi,Mobile,0.662395618,1023,2,0,,
+833,38,Male,West,2023-05-11,Standard,14.99,Credit Card,33.13004572,Drama,TV,1.172534564,1027,1,0,,
+834,43,Other,West,2020-05-03,Standard,14.99,PayPal,22.34561062,Comedy,Tablet,0.375317497,1061,2,0,,
+835,42,Male,South,2024-04-11,Basic,9.99,Direct Debit,13.75241738,Documentary,Mobile,4.131146019,1016,3,0,,
+836,39,Female,Central,2021-06-23,Standard,14.99,Credit Card,60.03782955,Documentary,Tablet,2.440957446,1019,2,0,,
+837,44,Male,Central,2020-06-19,Standard,14.99,Credit Card,7.131741522,Drama,PC,0.178100678,1002,4,0,,
+838,66,Other,South,2022-12-17,Standard,14.99,Credit Card,0.387079465,Action,Mobile,2.100172611,1036,2,0,,
+839,30,Other,Central,2020-09-20,Premium,19.99,PayPal,11.31230296,Comedy,TV,2.120648307,1089,4,0,,
+840,50,Other,North,2020-08-13,Basic,9.99,Credit Card,0.671382537,Drama,Tablet,6.25720999,1014,4,0,,
+841,51,Female,South,2023-08-14,Premium,19.99,Credit Card,61.55479764,Sci-Fi,Mobile,0.006050887,1050,3,0,,
+842,58,Female,North,2023-02-01,Standard,14.99,Credit Card,4.712371987,Comedy,Mobile,0.569858263,1047,2,1,53:37.7,Price increase
+843,52,Other,Central,2019-08-25,Standard,14.99,Credit Card,31.11102694,Documentary,Tablet,5.256394452,1007,2,1,53:37.7,Found better service
+844,18,Male,West,2023-02-06,Basic,9.99,Direct Debit,29.79509661,Drama,Tablet,5.380437719,1012,5,0,,
+845,38,Female,North,2020-07-23,Basic,9.99,Credit Card,4.911078458,Documentary,Tablet,2.550124454,1047,5,0,,
+846,65,Other,East,2021-05-11,Standard,14.99,PayPal,19.41633917,Documentary,PC,2.902846453,1002,1,1,53:37.7,Price increase
+847,23,Other,West,2021-08-04,Standard,14.99,PayPal,0.985463954,Documentary,Tablet,0.191883266,1064,4,0,,
+848,45,Female,North,2021-12-26,Basic,9.99,Direct Debit,13.21648814,Action,TV,1.442582407,1072,3,0,,
+849,34,Female,Central,2020-06-01,Standard,14.99,Credit Card,0.295109111,Documentary,Tablet,0.526845426,1030,5,1,53:37.7,Found better service
+850,22,Female,Central,2023-01-02,Premium,19.99,Direct Debit,50.8026071,Sci-Fi,TV,0.399874924,1025,2,0,,
+851,48,Male,East,2021-05-30,Premium,19.99,Credit Card,74.66584459,Sci-Fi,Mobile,3.324657587,1080,1,0,,
+852,22,Male,Central,2019-08-31,Premium,19.99,Direct Debit,5.027845483,Comedy,Mobile,0.290139723,1055,3,0,,
+853,55,Other,East,2022-10-21,Standard,14.99,Direct Debit,4.666555564,Documentary,Mobile,1.264674844,1033,2,1,53:37.7,Found better service
+854,20,Female,Central,2021-04-07,Standard,14.99,Credit Card,28.02573792,Documentary,Tablet,5.579982205,1008,2,0,,
+855,70,Male,West,2023-10-04,Standard,14.99,Credit Card,5.843962391,Drama,TV,0.411177229,1061,4,0,,
+856,40,Female,West,2020-05-06,Standard,14.99,Credit Card,45.09048659,Action,Mobile,7.632827899,1012,4,0,,
+857,54,Other,North,2019-08-18,Basic,9.99,Credit Card,17.06299199,Comedy,Mobile,10.33036712,1068,5,0,,
+858,70,Male,Central,2019-12-27,Basic,9.99,Credit Card,8.639599507,Documentary,TV,1.622137648,1040,5,0,,
+859,54,Male,East,2022-10-26,Standard,14.99,Credit Card,35.75858584,Drama,Mobile,0.373003138,1076,2,0,,
+860,27,Male,North,2023-11-30,Basic,9.99,Credit Card,13.60093535,Action,PC,0.759901436,1000,2,1,53:37.7,Price increase
+861,27,Other,North,2023-01-04,Standard,14.99,Credit Card,48.52511411,Comedy,Tablet,1.105007194,1088,5,0,,
+862,36,Female,East,2022-06-21,Basic,9.99,Credit Card,52.62573824,Comedy,TV,0.740169551,1046,5,1,53:37.7,Personal reasons
+863,34,Male,East,2020-11-18,Basic,9.99,Credit Card,3.616537139,Documentary,Mobile,0.658774413,1003,2,0,,
+864,38,Other,West,2022-03-05,Standard,14.99,Credit Card,0.046522189,Comedy,Mobile,7.167577013,1099,3,1,53:37.7,Found better service
+865,31,Female,Central,2019-06-26,Standard,14.99,Credit Card,82.61719208,Drama,Tablet,0.332970812,1062,2,0,,
+866,26,Other,North,2024-05-02,Standard,14.99,Credit Card,47.31849437,Comedy,TV,2.643470996,1051,3,0,,
+867,63,Female,West,2019-11-30,Basic,9.99,Credit Card,1.140832228,Sci-Fi,Tablet,0.000820747,1009,3,1,53:37.7,Dissatisfied with content
+868,18,Other,North,2023-05-12,Basic,9.99,Direct Debit,35.79933322,Drama,Mobile,1.813585311,1027,2,1,53:37.7,Dissatisfied with content
+869,68,Female,Central,2023-02-03,Standard,14.99,Credit Card,12.24258879,Action,PC,4.952520372,1005,1,0,,
+870,62,Male,Central,2023-09-02,Standard,14.99,Credit Card,5.994056799,Action,TV,0.679169615,1026,5,0,,
+871,30,Female,East,2019-12-30,Standard,14.99,Credit Card,42.19744158,Documentary,TV,0.410425485,1011,4,0,,
+872,21,Other,West,2019-09-14,Standard,14.99,Direct Debit,4.379724908,Documentary,TV,2.109266185,1061,2,1,53:37.7,Found better service
+873,18,Other,South,2021-10-04,Premium,19.99,Direct Debit,58.86279625,Sci-Fi,Mobile,2.493770404,1051,3,0,,
+874,66,Female,East,2023-03-12,Standard,14.99,Direct Debit,4.603904312,Action,Mobile,2.329699826,1047,2,0,,
+875,57,Male,Central,2019-07-11,Standard,14.99,PayPal,19.02194978,Action,PC,0.769316794,1066,5,0,,
+876,49,Male,East,2024-04-22,Standard,14.99,Credit Card,5.048520949,Action,TV,0.581245857,1045,3,0,,
+877,51,Female,South,2022-05-02,Standard,14.99,Credit Card,15.77857069,Action,Mobile,6.243443781,1096,4,1,53:37.7,Personal reasons
+878,45,Female,East,2019-12-23,Standard,14.99,Credit Card,23.03868731,Comedy,Mobile,5.135694319,1073,4,0,,
+879,48,Other,Central,2021-03-18,Standard,14.99,Direct Debit,4.22004934,Drama,PC,1.222458409,1094,4,0,,
+880,25,Male,South,2023-08-04,Standard,14.99,PayPal,14.71632521,Drama,Mobile,3.744124681,1014,1,0,,
+881,56,Female,North,2020-01-07,Basic,9.99,PayPal,12.66211554,Sci-Fi,Mobile,1.204140908,1070,3,1,53:37.7,Dissatisfied with content
+882,43,Male,West,2023-02-09,Basic,9.99,Credit Card,1.473736447,Comedy,Tablet,1.10464645,1035,3,0,,
+883,51,Female,Central,2020-06-23,Standard,14.99,Direct Debit,34.10882659,Action,Tablet,0.341014319,1013,1,0,,
+884,20,Female,North,2020-09-27,Premium,19.99,Credit Card,8.179898632,Action,PC,1.111667097,1077,3,1,53:37.7,Personal reasons
+885,67,Male,South,2019-12-22,Basic,9.99,Credit Card,17.09367057,Documentary,Mobile,1.541858292,1002,1,0,,
+886,29,Female,North,2022-09-17,Premium,19.99,Credit Card,14.46323221,Documentary,PC,0.045522828,1066,2,0,,
+887,18,Female,South,2023-02-16,Standard,14.99,Credit Card,14.40052432,Sci-Fi,Tablet,1.174380504,1085,5,0,,
+888,61,Other,East,2023-10-10,Premium,19.99,Credit Card,2.268355416,Action,Tablet,3.040622883,1018,4,0,,
+889,22,Female,West,2019-12-06,Premium,19.99,Direct Debit,11.01497466,Sci-Fi,PC,2.279156439,1098,1,1,53:37.7,Price increase
+890,47,Female,West,2022-05-24,Standard,14.99,Credit Card,12.04298969,Comedy,Mobile,2.016576249,1075,1,1,53:37.7,Dissatisfied with content
+891,47,Female,West,2023-07-10,Basic,9.99,Credit Card,26.45834331,Drama,Mobile,4.80603617,1053,1,0,,
+892,34,Other,South,2020-12-07,Basic,9.99,Credit Card,36.6539834,Action,Mobile,0.036393135,1068,2,0,,
+893,65,Male,Central,2019-07-15,Basic,9.99,Credit Card,15.74837823,Comedy,Mobile,1.628585865,1009,1,1,53:37.7,Price increase
+894,64,Other,East,2024-05-04,Standard,14.99,Direct Debit,1.815633967,Action,Tablet,3.096204484,1032,5,0,,
+895,40,Other,Central,2021-08-21,Basic,9.99,PayPal,5.405999618,Documentary,TV,1.558872035,1012,5,0,,
+896,32,Male,West,2020-02-16,Standard,14.99,PayPal,3.60489095,Sci-Fi,PC,0.782815414,1098,4,0,,
+897,54,Other,North,2021-04-16,Standard,14.99,Direct Debit,2.661831232,Documentary,PC,0.292945116,1050,2,0,,
+898,38,Male,West,2022-12-04,Premium,19.99,PayPal,9.110950043,Drama,Mobile,4.370725706,1031,5,0,,
+899,31,Other,South,2020-05-16,Basic,9.99,Credit Card,5.211548293,Documentary,Tablet,1.272635568,1074,3,0,,
+900,19,Male,West,2022-12-31,Basic,9.99,PayPal,4.925764492,Action,Mobile,4.209357836,1023,3,0,,
+901,28,Female,North,2020-11-25,Basic,9.99,Credit Card,1.124914424,Documentary,Mobile,1.763064353,1034,3,1,53:37.7,Personal reasons
+902,68,Other,North,2022-08-26,Premium,19.99,Credit Card,0.356560476,Action,Mobile,2.242894772,1082,1,1,53:37.7,Price increase
+903,56,Other,Central,2021-02-07,Standard,14.99,Credit Card,2.168821618,Drama,Tablet,3.261947857,1069,1,0,,
+904,55,Other,South,2019-07-28,Basic,9.99,PayPal,3.779613095,Documentary,TV,2.152658097,1039,3,0,,
+905,51,Other,Central,2019-06-27,Basic,9.99,PayPal,11.27692498,Sci-Fi,Mobile,1.015177871,1053,4,1,53:37.7,Dissatisfied with content
+906,55,Female,South,2023-06-11,Basic,9.99,Credit Card,14.28824419,Sci-Fi,Mobile,1.441585171,1043,4,0,,
+907,67,Other,West,2023-06-09,Basic,9.99,PayPal,3.030228073,Sci-Fi,PC,3.249565333,1061,1,1,53:37.7,Dissatisfied with content
+908,51,Female,West,2024-03-18,Premium,19.99,Direct Debit,11.06017024,Documentary,Mobile,0.935692864,1098,3,0,,
+909,35,Female,East,2020-02-11,Standard,14.99,Credit Card,8.363374438,Documentary,TV,0.98244295,1067,4,1,53:37.7,Personal reasons
+910,47,Female,South,2021-12-26,Standard,14.99,Credit Card,4.052697082,Documentary,PC,0.201166371,1032,1,0,,
+911,32,Female,South,2019-09-19,Premium,19.99,PayPal,0.137285066,Action,TV,4.920453875,1076,3,0,,
+912,44,Male,North,2020-03-13,Basic,9.99,Credit Card,12.58534752,Drama,Tablet,0.190900272,1055,2,0,,
+913,68,Male,South,2019-12-14,Standard,14.99,PayPal,23.14507658,Sci-Fi,PC,2.089437068,1035,3,0,,
+914,51,Other,West,2019-09-06,Premium,19.99,Credit Card,5.130835649,Action,Tablet,1.066123648,1053,3,0,,
+915,69,Male,Central,2023-08-09,Standard,14.99,Credit Card,2.826820858,Sci-Fi,PC,1.040470815,1018,5,0,,
+916,55,Male,Central,2022-10-05,Standard,14.99,PayPal,43.61491603,Action,Tablet,2.276069505,1042,5,0,,
+917,50,Other,West,2020-11-08,Basic,9.99,PayPal,6.432355873,Documentary,Mobile,0.138901094,1011,2,0,,
+918,41,Other,West,2022-10-25,Basic,9.99,Direct Debit,5.062073641,Sci-Fi,Tablet,1.801355419,1010,2,1,53:37.7,Price increase
+919,32,Other,West,2022-06-11,Basic,9.99,Direct Debit,38.91177556,Documentary,Tablet,2.957098144,1069,3,0,,
+920,47,Male,South,2019-08-19,Standard,14.99,PayPal,33.97709078,Sci-Fi,TV,3.522997065,1011,4,0,,
+921,59,Male,Central,2021-04-19,Standard,14.99,PayPal,11.89670188,Comedy,PC,0.373937612,1090,2,0,,
+922,68,Other,West,2023-02-16,Premium,19.99,Credit Card,13.43706475,Action,PC,4.554206074,1040,3,0,,
+923,34,Female,East,2021-07-25,Standard,14.99,Credit Card,4.911584815,Comedy,Mobile,2.135076795,1024,1,0,,
+924,22,Other,North,2020-08-20,Premium,19.99,Credit Card,1.630746007,Action,PC,4.271681819,1002,5,0,,
+925,46,Female,East,2021-03-01,Premium,19.99,Direct Debit,17.03966156,Drama,Tablet,1.328267217,1002,4,1,53:37.7,Price increase
+926,21,Female,East,2023-05-16,Basic,9.99,Credit Card,2.07046457,Sci-Fi,TV,1.561917807,1083,3,0,,
+927,27,Other,Central,2019-11-25,Standard,14.99,Credit Card,11.93037729,Drama,TV,5.027557584,1027,1,1,53:37.7,Dissatisfied with content
+928,34,Other,East,2023-08-07,Basic,9.99,Credit Card,56.43463767,Drama,Mobile,4.603361871,1022,5,1,53:37.7,Personal reasons
+929,27,Other,South,2021-06-29,Standard,14.99,PayPal,61.08180472,Action,TV,1.188997425,1047,1,0,,
+930,34,Male,Central,2023-07-01,Premium,19.99,Direct Debit,5.471173222,Comedy,Mobile,0.641547578,1066,3,1,53:37.7,Dissatisfied with content
+931,37,Female,North,2021-12-19,Basic,9.99,Credit Card,19.5693566,Documentary,Mobile,0.999014618,1041,2,0,,
+932,41,Male,East,2021-12-03,Standard,14.99,Direct Debit,12.85198131,Action,Tablet,0.981275973,1087,5,1,53:37.7,Price increase
+933,22,Male,North,2023-12-05,Standard,14.99,Credit Card,41.69875277,Documentary,Mobile,0.67617433,1039,1,1,53:37.7,Found better service
+934,51,Other,West,2020-06-23,Standard,14.99,Credit Card,6.333455128,Drama,PC,0.625533776,1005,2,0,,
+935,23,Male,Central,2020-10-31,Standard,14.99,Direct Debit,0.074185554,Documentary,Mobile,3.947468458,1019,4,1,53:37.7,Personal reasons
+936,70,Other,South,2022-08-26,Standard,14.99,Credit Card,3.548141993,Comedy,Mobile,0.144844463,1010,3,0,,
+937,19,Female,Central,2021-12-06,Basic,9.99,Direct Debit,8.600980668,Action,Tablet,2.263993906,1095,3,0,,
+938,30,Other,South,2022-03-02,Basic,9.99,Credit Card,7.587794789,Comedy,PC,0.379466031,1026,5,0,,
+939,60,Male,Central,2019-12-25,Basic,9.99,Credit Card,31.34317983,Comedy,TV,0.844731933,1020,1,0,,
+940,60,Male,West,2024-01-03,Standard,14.99,Direct Debit,22.82375803,Action,PC,0.127036556,1012,4,0,,
+941,65,Other,Central,2020-07-29,Basic,9.99,Credit Card,7.120826312,Comedy,PC,0.629349263,1085,5,0,,
+942,28,Other,North,2020-10-18,Premium,19.99,Direct Debit,12.24033454,Sci-Fi,Mobile,2.925669036,1034,5,0,,
+943,68,Male,Central,2022-08-27,Standard,14.99,Direct Debit,2.008766412,Sci-Fi,Mobile,4.325912833,1046,1,0,,
+944,64,Female,West,2023-09-05,Standard,14.99,Credit Card,45.68438462,Sci-Fi,Mobile,0.500842331,1085,4,0,,
+945,40,Female,South,2022-01-10,Standard,14.99,Credit Card,54.79850443,Documentary,Tablet,1.24555578,1027,1,0,,
+946,33,Other,Central,2023-02-12,Standard,14.99,Credit Card,78.04495418,Comedy,PC,1.270979741,1020,3,0,,
+947,48,Female,South,2021-10-20,Premium,19.99,Credit Card,40.58300526,Action,Tablet,4.136216901,1017,2,1,53:37.7,Price increase
+948,28,Male,Central,2020-11-13,Basic,9.99,Credit Card,3.822263102,Action,PC,2.877695238,1030,3,1,53:37.7,Dissatisfied with content
+949,33,Other,North,2022-12-04,Basic,9.99,Credit Card,0.94595172,Documentary,Tablet,1.439299455,1059,3,0,,
+950,25,Male,West,2021-02-27,Standard,14.99,Credit Card,17.33081711,Action,Mobile,2.221858871,1036,5,0,,
+951,21,Male,East,2023-05-11,Basic,9.99,Credit Card,48.74635028,Sci-Fi,Mobile,3.759281336,1020,3,1,53:37.7,Found better service
+952,57,Female,North,2024-04-29,Basic,9.99,Direct Debit,3.904521947,Comedy,TV,0.019169483,1013,4,0,,
+953,21,Other,South,2023-01-15,Standard,14.99,Direct Debit,0.14135666,Action,PC,1.03130796,1088,3,0,,
+954,42,Other,North,2020-07-31,Basic,9.99,PayPal,32.74605574,Action,TV,4.755547824,1090,4,0,,
+955,20,Female,East,2022-12-29,Standard,14.99,Credit Card,1.59809417,Drama,Mobile,2.696556676,1059,1,1,53:37.7,Found better service
+956,49,Male,South,2019-11-20,Basic,9.99,Direct Debit,10.67867926,Drama,TV,1.565449692,1022,5,0,,
+957,20,Male,East,2022-01-25,Premium,19.99,Credit Card,22.71926486,Drama,Mobile,1.508533089,1094,4,0,,
+958,44,Male,South,2020-05-17,Standard,14.99,PayPal,5.404639903,Comedy,Mobile,0.854716336,1028,3,1,53:37.7,Personal reasons
+959,46,Male,South,2021-06-09,Standard,14.99,Direct Debit,1.753960911,Sci-Fi,TV,1.470108417,1046,5,0,,
+960,49,Other,West,2022-09-22,Standard,14.99,Credit Card,29.39536544,Sci-Fi,Mobile,2.130644405,1029,5,0,,
+961,67,Other,North,2023-11-02,Premium,19.99,PayPal,19.89451175,Sci-Fi,PC,1.083817606,1089,4,0,,
+962,68,Female,Central,2019-11-30,Basic,9.99,Direct Debit,89.291623,Comedy,Mobile,2.504598177,1083,4,0,,
+963,36,Female,Central,2019-11-26,Premium,19.99,Direct Debit,8.441283266,Comedy,Tablet,3.949906885,1037,2,0,,
+964,38,Other,West,2022-04-14,Standard,14.99,PayPal,1.275040851,Drama,TV,0.336091521,1082,2,0,,
+965,22,Other,East,2024-02-04,Standard,14.99,Credit Card,26.51151518,Action,Mobile,1.201307466,1026,5,0,,
+966,35,Male,Central,2024-02-11,Standard,14.99,Credit Card,14.75174002,Documentary,PC,1.048565165,1088,2,1,53:37.7,Personal reasons
+967,45,Male,North,2021-06-04,Basic,9.99,Credit Card,4.795723783,Documentary,Mobile,2.326076378,1086,3,1,53:37.7,Price increase
+968,59,Female,North,2023-12-22,Standard,14.99,PayPal,30.44035637,Action,PC,0.57501075,1092,1,0,,
+969,39,Other,South,2023-03-13,Standard,14.99,Credit Card,4.556979235,Drama,Mobile,2.044696953,1014,5,0,,
+970,38,Female,West,2024-02-23,Basic,9.99,Direct Debit,6.039992418,Action,Mobile,4.199112861,1058,1,1,53:37.7,Price increase
+971,23,Other,North,2020-01-17,Standard,14.99,Credit Card,1.941863564,Action,Mobile,1.083021947,1002,2,0,,
+972,18,Male,East,2019-11-13,Basic,9.99,Credit Card,10.19759739,Documentary,Mobile,4.838590658,1009,4,0,,
+973,22,Female,Central,2020-02-22,Basic,9.99,Credit Card,10.85765424,Drama,TV,9.971028649,1078,5,0,,
+974,58,Female,Central,2021-02-12,Basic,9.99,PayPal,14.45406542,Comedy,Mobile,0.224304947,1079,2,0,,
+975,29,Other,East,2020-11-05,Basic,9.99,Credit Card,24.68618452,Documentary,Mobile,0.530675651,1016,3,1,53:37.7,Price increase
+976,43,Male,North,2023-11-18,Standard,14.99,Credit Card,47.31069566,Comedy,Tablet,6.006712585,1082,5,0,,
+977,63,Female,Central,2019-07-21,Basic,9.99,Credit Card,2.963831718,Drama,Mobile,6.35583663,1010,5,0,,
+978,51,Male,East,2023-11-19,Premium,19.99,Credit Card,1.117614926,Action,PC,0.205632566,1047,4,0,,
+979,66,Female,North,2019-06-15,Standard,14.99,Credit Card,0.374101762,Sci-Fi,TV,0.030224231,1004,5,0,,
+980,31,Male,North,2021-12-17,Basic,9.99,Direct Debit,3.100853706,Sci-Fi,Tablet,0.351327594,1068,4,0,,
+981,43,Other,Central,2023-06-20,Standard,14.99,Credit Card,21.45593701,Drama,TV,11.04932376,1063,2,0,,
+982,62,Female,West,2019-12-29,Premium,19.99,Credit Card,26.00065102,Sci-Fi,Tablet,0.396900942,1013,3,0,,
+983,44,Female,Central,2023-02-06,Standard,14.99,Direct Debit,30.88290416,Comedy,Mobile,1.396510838,1049,3,0,,
+984,26,Male,Central,2021-10-06,Basic,9.99,Direct Debit,5.586560284,Sci-Fi,PC,3.773253483,1025,5,1,53:37.7,Found better service
+985,43,Male,East,2019-11-23,Premium,19.99,PayPal,7.302635281,Drama,Tablet,0.041225196,1071,5,0,,
+986,64,Female,East,2022-03-09,Standard,14.99,Credit Card,13.19945749,Drama,PC,1.855153269,1068,2,0,,
+987,39,Other,East,2022-09-02,Basic,9.99,Direct Debit,1.305348467,Comedy,TV,0.648762513,1006,4,0,,
+988,64,Male,South,2021-02-13,Basic,9.99,Direct Debit,18.89079629,Sci-Fi,Tablet,3.965862949,1015,3,0,,
+989,47,Male,East,2021-11-30,Standard,14.99,PayPal,82.37483579,Sci-Fi,TV,0.66664562,1054,4,0,,
+990,60,Male,West,2023-05-24,Basic,9.99,Credit Card,8.950955169,Action,PC,2.321543893,1077,2,0,,
+991,65,Female,West,2020-04-23,Premium,19.99,Credit Card,27.95499246,Documentary,Tablet,2.243063688,1055,3,0,,
+992,34,Female,Central,2019-10-04,Standard,14.99,PayPal,13.86430028,Drama,PC,0.500756002,1003,3,1,53:37.7,Personal reasons
+993,43,Female,East,2021-01-26,Premium,19.99,Credit Card,2.735002071,Action,Mobile,0.070838233,1099,1,1,53:37.7,Personal reasons
+994,53,Female,West,2024-04-27,Standard,14.99,Credit Card,17.45684134,Drama,TV,1.052723283,1047,2,0,,
+995,18,Other,West,2022-04-28,Basic,9.99,Direct Debit,7.129906871,Action,PC,0.682709097,1016,2,0,,
+996,25,Other,East,2020-10-26,Basic,9.99,PayPal,0.700178639,Documentary,Mobile,3.310730727,1035,1,1,53:37.7,Found better service
+997,66,Female,West,2020-05-06,Standard,14.99,Credit Card,20.15330847,Action,Mobile,3.222521029,1069,4,0,,
+998,52,Other,South,2019-06-19,Standard,14.99,PayPal,39.17031423,Drama,PC,1.221380142,1079,1,0,,
+999,69,Male,East,2020-11-13,Standard,14.99,Credit Card,8.455372084,Sci-Fi,Mobile,1.86541056,1092,2,1,53:37.7,Found better service
+1000,32,Male,North,2022-07-10,Basic,9.99,Credit Card,9.895618857,Drama,Mobile,1.853993252,1099,4,0,,
